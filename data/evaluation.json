@@ -1,0 +1,3621 @@
+{
+  "model": {
+    "mae": 3167.3158544345606,
+    "rmse": 3544.1732857497,
+    "mean_error": 3167.3158544345606,
+    "origins": 30
+  },
+  "baseline": {
+    "mae": 4223.191031746031,
+    "rmse": 5735.3583875526065,
+    "mean_error": 3368.7274603174574,
+    "origins": 30
+  },
+  "mae_improvement_percent": 25.00183319613961,
+  "hypothesis_supported": true,
+  "independent_test_months": 1,
+  "rows": [
+    {
+      "origin": "2026-09-01",
+      "horizon_days": 30,
+      "actual": 16517.983333333334,
+      "observed": 0,
+      "predicted": 18988.798099104846,
+      "baseline": 14309.214285714284
+    },
+    {
+      "origin": "2026-09-02",
+      "horizon_days": 29,
+      "actual": 16517.983333333334,
+      "observed": 2274.2333333333327,
+      "predicted": 20884.514953054168,
+      "baseline": 19517.42619047619
+    },
+    {
+      "origin": "2026-09-03",
+      "horizon_days": 28,
+      "actual": 16517.983333333334,
+      "observed": 3167.266666666666,
+      "predicted": 20268.09946826322,
+      "baseline": 21436.499999999996
+    },
+    {
+      "origin": "2026-09-04",
+      "horizon_days": 27,
+      "actual": 16517.983333333334,
+      "observed": 3451.4166666666656,
+      "predicted": 19833.649438147557,
+      "baseline": 20974.51309523809
+    },
+    {
+      "origin": "2026-09-05",
+      "horizon_days": 26,
+      "actual": 16517.983333333334,
+      "observed": 6305.716666666665,
+      "predicted": 22653.856804218118,
+      "baseline": 28287.602380952376
+    },
+    {
+      "origin": "2026-09-06",
+      "horizon_days": 25,
+      "actual": 16517.983333333334,
+      "observed": 6387.833333333332,
+      "predicted": 20810.108137748983,
+      "baseline": 27636.28571428571
+    },
+    {
+      "origin": "2026-09-07",
+      "horizon_days": 24,
+      "actual": 16517.983333333334,
+      "observed": 6558.933333333332,
+      "predicted": 20712.835641375892,
+      "baseline": 26265.819047619043
+    },
+    {
+      "origin": "2026-09-08",
+      "horizon_days": 23,
+      "actual": 16517.983333333334,
+      "observed": 7690.466666666665,
+      "predicted": 21652.304705771287,
+      "baseline": 27090.227380952376
+    },
+    {
+      "origin": "2026-09-09",
+      "horizon_days": 22,
+      "actual": 16517.983333333334,
+      "observed": 8226.583333333332,
+      "predicted": 21347.60709787964,
+      "baseline": 26475.845238095237
+    },
+    {
+      "origin": "2026-09-10",
+      "horizon_days": 21,
+      "actual": 16517.983333333334,
+      "observed": 8871.499999999998,
+      "predicted": 21565.368821588767,
+      "baseline": 26856.475
+    },
+    {
+      "origin": "2026-09-11",
+      "horizon_days": 20,
+      "actual": 16517.983333333334,
+      "observed": 9123.316666666666,
+      "predicted": 21317.623495096817,
+      "baseline": 25852.43571428571
+    },
+    {
+      "origin": "2026-09-12",
+      "horizon_days": 19,
+      "actual": 16517.983333333334,
+      "observed": 9278.916666666664,
+      "predicted": 21076.41719182237,
+      "baseline": 24174.19285714285
+    },
+    {
+      "origin": "2026-09-13",
+      "horizon_days": 18,
+      "actual": 16517.983333333334,
+      "observed": 9361.4,
+      "predicted": 20784.373624346415,
+      "baseline": 22367.70714285714
+    },
+    {
+      "origin": "2026-09-14",
+      "horizon_days": 17,
+      "actual": 16517.983333333334,
+      "observed": 9702.116666666665,
+      "predicted": 20729.559561538106,
+      "baseline": 22053.36547619047
+    },
+    {
+      "origin": "2026-09-15",
+      "horizon_days": 16,
+      "actual": 16517.983333333334,
+      "observed": 9991.699999999999,
+      "predicted": 20475.275422290935,
+      "baseline": 21410.78571428571
+    },
+    {
+      "origin": "2026-09-16",
+      "horizon_days": 15,
+      "actual": 16517.983333333334,
+      "observed": 10160.516666666665,
+      "predicted": 20190.79083626381,
+      "baseline": 18610.10595238095
+    },
+    {
+      "origin": "2026-09-17",
+      "horizon_days": 14,
+      "actual": 16517.983333333334,
+      "observed": 10369.399999999998,
+      "predicted": 19977.881131414237,
+      "baseline": 17571.53333333333
+    },
+    {
+      "origin": "2026-09-18",
+      "horizon_days": 13,
+      "actual": 16517.983333333334,
+      "observed": 11048.883333333331,
+      "predicted": 20222.814882842067,
+      "baseline": 18103.673809523807
+    },
+    {
+      "origin": "2026-09-19",
+      "horizon_days": 12,
+      "actual": 16517.983333333334,
+      "observed": 11624.599999999999,
+      "predicted": 20103.235322875073,
+      "baseline": 16183.642857142855
+    },
+    {
+      "origin": "2026-09-20",
+      "horizon_days": 11,
+      "actual": 16517.983333333334,
+      "observed": 11642.149999999998,
+      "predicted": 19311.705883207735,
+      "baseline": 15770.541666666664
+    },
+    {
+      "origin": "2026-09-21",
+      "horizon_days": 10,
+      "actual": 16517.983333333334,
+      "observed": 11795.499999999998,
+      "predicted": 18927.66836415961,
+      "baseline": 15535.90476190476
+    },
+    {
+      "origin": "2026-09-22",
+      "horizon_days": 9,
+      "actual": 16517.983333333334,
+      "observed": 12383.366666666665,
+      "predicted": 18982.514195376803,
+      "baseline": 15400.23095238095
+    },
+    {
+      "origin": "2026-09-23",
+      "horizon_days": 8,
+      "actual": 16517.983333333334,
+      "observed": 12622.483333333332,
+      "predicted": 18386.81151082196,
+      "baseline": 15134.426190476188
+    },
+    {
+      "origin": "2026-09-24",
+      "horizon_days": 7,
+      "actual": 16517.983333333334,
+      "observed": 13129.766666666665,
+      "predicted": 18388.13323096287,
+      "baseline": 15258.899999999998
+    },
+    {
+      "origin": "2026-09-25",
+      "horizon_days": 6,
+      "actual": 16517.983333333334,
+      "observed": 13292.849999999999,
+      "predicted": 17689.803652728293,
+      "baseline": 15079.792857142857
+    },
+    {
+      "origin": "2026-09-26",
+      "horizon_days": 5,
+      "actual": 16517.983333333334,
+      "observed": 13832.666666666664,
+      "predicted": 17760.77620190273,
+      "baseline": 15459.00595238095
+    },
+    {
+      "origin": "2026-09-27",
+      "horizon_days": 4,
+      "actual": 16517.983333333334,
+      "observed": 14210.366666666665,
+      "predicted": 17201.454285580927,
+      "baseline": 15595.785714285712
+    },
+    {
+      "origin": "2026-09-28",
+      "horizon_days": 3,
+      "actual": 16517.983333333334,
+      "observed": 14667.55,
+      "predicted": 16848.67884606468,
+      "baseline": 15731.571428571428
+    },
+    {
+      "origin": "2026-09-29",
+      "horizon_days": 2,
+      "actual": 16517.983333333334,
+      "observed": 15197.3,
+      "predicted": 16563.077101909566,
+      "baseline": 15940.957142857142
+    },
+    {
+      "origin": "2026-09-30",
+      "horizon_days": 1,
+      "actual": 16517.983333333334,
+      "observed": 16093.099999999999,
+      "predicted": 16903.237724679348,
+      "baseline": 16516.855952380953
+    }
+  ],
+  "workflow_diagnostics": [
+    {
+      "origin": "2026-09-01",
+      "workflow": ".github/workflows/ci.yml",
+      "known_at_origin": true,
+      "actual": 7797.466666666666,
+      "predicted": 9506.4960142878,
+      "baseline": 7135.714285714286
+    },
+    {
+      "origin": "2026-09-01",
+      "workflow": ".github/workflows/codeql-analysis.yml",
+      "known_at_origin": true,
+      "actual": 391.96666666666664,
+      "predicted": 518.137826081072,
+      "baseline": 375.82142857142856
+    },
+    {
+      "origin": "2026-09-01",
+      "workflow": ".github/workflows/docs-ci.yml",
+      "known_at_origin": true,
+      "actual": 981.85,
+      "predicted": 996.7842744289222,
+      "baseline": 1128.2857142857142
+    },
+    {
+      "origin": "2026-09-01",
+      "workflow": ".github/workflows/ecosystem-tests.yml",
+      "known_at_origin": true,
+      "actual": 5210.466666666666,
+      "predicted": 5218.972007664229,
+      "baseline": 4150.642857142857
+    },
+    {
+      "origin": "2026-09-01",
+      "workflow": ".github/workflows/ecosystem-updates.yml",
+      "known_at_origin": true,
+      "actual": 3.3,
+      "predicted": 79.67751922602903,
+      "baseline": 6.107142857142857
+    },
+    {
+      "origin": "2026-09-01",
+      "workflow": ".github/workflows/pinact.yml",
+      "known_at_origin": true,
+      "actual": 0,
+      "predicted": 73.89021663789381,
+      "baseline": 0.0
+    },
+    {
+      "origin": "2026-09-01",
+      "workflow": ".github/workflows/pr-labeler.yml",
+      "known_at_origin": true,
+      "actual": 12.383333333333333,
+      "predicted": 91.33853076756887,
+      "baseline": 13.607142857142858
+    },
+    {
+      "origin": "2026-09-01",
+      "workflow": ".github/workflows/rebuild-docs-sites.yml",
+      "known_at_origin": true,
+      "actual": 0.2,
+      "predicted": 76.9296969567261,
+      "baseline": 0.4642857142857143
+    },
+    {
+      "origin": "2026-09-01",
+      "workflow": ".github/workflows/stale.yml",
+      "known_at_origin": true,
+      "actual": 3.45,
+      "predicted": 80.50682414735076,
+      "baseline": 4.071428571428571
+    },
+    {
+      "origin": "2026-09-01",
+      "workflow": ".github/workflows/types-integration.yml",
+      "known_at_origin": true,
+      "actual": 2070.55,
+      "predicted": 2016.7938926181082,
+      "baseline": 1456.4642857142856
+    },
+    {
+      "origin": "2026-09-01",
+      "workflow": ".github/workflows/update-readme.yml",
+      "known_at_origin": true,
+      "actual": 31.066666666666666,
+      "predicted": 95.83922957613845,
+      "baseline": 27.214285714285715
+    },
+    {
+      "origin": "2026-09-01",
+      "workflow": "dynamic/agents/copilot-pull-request-reviewer",
+      "known_at_origin": true,
+      "actual": 6.033333333333333,
+      "predicted": 74.82192340802737,
+      "baseline": 0.0
+    },
+    {
+      "origin": "2026-09-01",
+      "workflow": "dynamic/copilot-swe-agent/copilot",
+      "known_at_origin": true,
+      "actual": 1.0166666666666666,
+      "predicted": 77.91820709341303,
+      "baseline": 0.0
+    },
+    {
+      "origin": "2026-09-01",
+      "workflow": "dynamic/dependabot/dependabot-updates",
+      "known_at_origin": true,
+      "actual": 8.233333333333333,
+      "predicted": 80.69193621156452,
+      "baseline": 10.821428571428571
+    },
+    {
+      "origin": "2026-09-02",
+      "workflow": ".github/workflows/ci.yml",
+      "known_at_origin": true,
+      "actual": 7797.466666666666,
+      "predicted": 10470.878330102913,
+      "baseline": 9791.133333333333
+    },
+    {
+      "origin": "2026-09-02",
+      "workflow": ".github/workflows/codeql-analysis.yml",
+      "known_at_origin": true,
+      "actual": 391.96666666666664,
+      "predicted": 564.1538444042009,
+      "baseline": 512.3154761904761
+    },
+    {
+      "origin": "2026-09-02",
+      "workflow": ".github/workflows/docs-ci.yml",
+      "known_at_origin": true,
+      "actual": 981.85,
+      "predicted": 1200.254859181479,
+      "baseline": 1639.3916666666667
+    },
+    {
+      "origin": "2026-09-02",
+      "workflow": ".github/workflows/ecosystem-tests.yml",
+      "known_at_origin": true,
+      "actual": 5210.466666666666,
+      "predicted": 5709.151313757602,
+      "baseline": 5491.890476190476
+    },
+    {
+      "origin": "2026-09-02",
+      "workflow": ".github/workflows/ecosystem-updates.yml",
+      "known_at_origin": true,
+      "actual": 3.3,
+      "predicted": 78.49214023042995,
+      "baseline": 5.9035714285714285
+    },
+    {
+      "origin": "2026-09-02",
+      "workflow": ".github/workflows/pinact.yml",
+      "known_at_origin": true,
+      "actual": 0,
+      "predicted": 73.20262917117213,
+      "baseline": 0.0
+    },
+    {
+      "origin": "2026-09-02",
+      "workflow": ".github/workflows/pr-labeler.yml",
+      "known_at_origin": true,
+      "actual": 12.383333333333333,
+      "predicted": 91.67489422352783,
+      "baseline": 19.026190476190475
+    },
+    {
+      "origin": "2026-09-02",
+      "workflow": ".github/workflows/rebuild-docs-sites.yml",
+      "known_at_origin": true,
+      "actual": 0.2,
+      "predicted": 76.13898370576744,
+      "baseline": 0.4488095238095238
+    },
+    {
+      "origin": "2026-09-02",
+      "workflow": ".github/workflows/stale.yml",
+      "known_at_origin": true,
+      "actual": 3.45,
+      "predicted": 79.62950034323778,
+      "baseline": 4.019047619047619
+    },
+    {
+      "origin": "2026-09-02",
+      "workflow": ".github/workflows/types-integration.yml",
+      "known_at_origin": true,
+      "actual": 2070.55,
+      "predicted": 2214.9305889821812,
+      "baseline": 2015.8857142857144
+    },
+    {
+      "origin": "2026-09-02",
+      "workflow": ".github/workflows/update-readme.yml",
+      "known_at_origin": true,
+      "actual": 31.066666666666666,
+      "predicted": 94.93280774552025,
+      "baseline": 26.951190476190476
+    },
+    {
+      "origin": "2026-09-02",
+      "workflow": "dynamic/agents/copilot-pull-request-reviewer",
+      "known_at_origin": true,
+      "actual": 6.033333333333333,
+      "predicted": 74.10181855506418,
+      "baseline": 0.0
+    },
+    {
+      "origin": "2026-09-02",
+      "workflow": "dynamic/copilot-swe-agent/copilot",
+      "known_at_origin": true,
+      "actual": 1.0166666666666666,
+      "predicted": 77.09003921489438,
+      "baseline": 0.0
+    },
+    {
+      "origin": "2026-09-02",
+      "workflow": "dynamic/dependabot/dependabot-updates",
+      "known_at_origin": true,
+      "actual": 8.233333333333333,
+      "predicted": 79.88320343617426,
+      "baseline": 10.460714285714285
+    },
+    {
+      "origin": "2026-09-03",
+      "workflow": ".github/workflows/ci.yml",
+      "known_at_origin": true,
+      "actual": 7797.466666666666,
+      "predicted": 10135.58368633111,
+      "baseline": 10767.883333333331
+    },
+    {
+      "origin": "2026-09-03",
+      "workflow": ".github/workflows/codeql-analysis.yml",
+      "known_at_origin": true,
+      "actual": 391.96666666666664,
+      "predicted": 545.5870892544252,
+      "baseline": 549.0333333333333
+    },
+    {
+      "origin": "2026-09-03",
+      "workflow": ".github/workflows/docs-ci.yml",
+      "known_at_origin": true,
+      "actual": 981.85,
+      "predicted": 1169.7582150886894,
+      "baseline": 1853.1333333333332
+    },
+    {
+      "origin": "2026-09-03",
+      "workflow": ".github/workflows/ecosystem-tests.yml",
+      "known_at_origin": true,
+      "actual": 5210.466666666666,
+      "predicted": 5544.739254808562,
+      "baseline": 5981.0166666666655
+    },
+    {
+      "origin": "2026-09-03",
+      "workflow": ".github/workflows/ecosystem-updates.yml",
+      "known_at_origin": true,
+      "actual": 3.3,
+      "predicted": 78.49214023042995,
+      "baseline": 5.7
+    },
+    {
+      "origin": "2026-09-03",
+      "workflow": ".github/workflows/pinact.yml",
+      "known_at_origin": true,
+      "actual": 0,
+      "predicted": 73.20262917117213,
+      "baseline": 0.0
+    },
+    {
+      "origin": "2026-09-03",
+      "workflow": ".github/workflows/pr-labeler.yml",
+      "known_at_origin": true,
+      "actual": 12.383333333333333,
+      "predicted": 92.48130139144087,
+      "baseline": 21.71666666666667
+    },
+    {
+      "origin": "2026-09-03",
+      "workflow": ".github/workflows/rebuild-docs-sites.yml",
+      "known_at_origin": true,
+      "actual": 0.2,
+      "predicted": 76.13898370576744,
+      "baseline": 0.43333333333333335
+    },
+    {
+      "origin": "2026-09-03",
+      "workflow": ".github/workflows/stale.yml",
+      "known_at_origin": true,
+      "actual": 3.45,
+      "predicted": 79.74470136722539,
+      "baseline": 3.9833333333333334
+    },
+    {
+      "origin": "2026-09-03",
+      "workflow": ".github/workflows/types-integration.yml",
+      "known_at_origin": true,
+      "actual": 2070.55,
+      "predicted": 2145.7069521260105,
+      "baseline": 2216.4
+    },
+    {
+      "origin": "2026-09-03",
+      "workflow": ".github/workflows/update-readme.yml",
+      "known_at_origin": true,
+      "actual": 31.066666666666666,
+      "predicted": 95.58945358224945,
+      "baseline": 27.099999999999998
+    },
+    {
+      "origin": "2026-09-03",
+      "workflow": "dynamic/agents/copilot-pull-request-reviewer",
+      "known_at_origin": true,
+      "actual": 6.033333333333333,
+      "predicted": 74.10181855506418,
+      "baseline": 0.0
+    },
+    {
+      "origin": "2026-09-03",
+      "workflow": "dynamic/copilot-swe-agent/copilot",
+      "known_at_origin": true,
+      "actual": 1.0166666666666666,
+      "predicted": 77.09003921489438,
+      "baseline": 0.0
+    },
+    {
+      "origin": "2026-09-03",
+      "workflow": "dynamic/dependabot/dependabot-updates",
+      "known_at_origin": true,
+      "actual": 8.233333333333333,
+      "predicted": 79.88320343617426,
+      "baseline": 10.1
+    },
+    {
+      "origin": "2026-09-04",
+      "workflow": ".github/workflows/ci.yml",
+      "known_at_origin": true,
+      "actual": 7797.466666666666,
+      "predicted": 9898.321038366712,
+      "baseline": 10520.215476190475
+    },
+    {
+      "origin": "2026-09-04",
+      "workflow": ".github/workflows/codeql-analysis.yml",
+      "known_at_origin": true,
+      "actual": 391.96666666666664,
+      "predicted": 544.5214938605712,
+      "baseline": 540.3333333333334
+    },
+    {
+      "origin": "2026-09-04",
+      "workflow": ".github/workflows/docs-ci.yml",
+      "known_at_origin": true,
+      "actual": 981.85,
+      "predicted": 1133.1722276936057,
+      "baseline": 1837.0511904761904
+    },
+    {
+      "origin": "2026-09-04",
+      "workflow": ".github/workflows/ecosystem-tests.yml",
+      "known_at_origin": true,
+      "actual": 5210.466666666666,
+      "predicted": 5432.264432248553,
+      "baseline": 5849.2249999999985
+    },
+    {
+      "origin": "2026-09-04",
+      "workflow": ".github/workflows/ecosystem-updates.yml",
+      "known_at_origin": true,
+      "actual": 3.3,
+      "predicted": 78.49214023042995,
+      "baseline": 5.496428571428571
+    },
+    {
+      "origin": "2026-09-04",
+      "workflow": ".github/workflows/pinact.yml",
+      "known_at_origin": true,
+      "actual": 0,
+      "predicted": 73.20262917117213,
+      "baseline": 0.0
+    },
+    {
+      "origin": "2026-09-04",
+      "workflow": ".github/workflows/pr-labeler.yml",
+      "known_at_origin": true,
+      "actual": 12.383333333333333,
+      "predicted": 92.61954262022593,
+      "baseline": 21.04047619047619
+    },
+    {
+      "origin": "2026-09-04",
+      "workflow": ".github/workflows/rebuild-docs-sites.yml",
+      "known_at_origin": true,
+      "actual": 0.2,
+      "predicted": 76.13898370576744,
+      "baseline": 0.41785714285714287
+    },
+    {
+      "origin": "2026-09-04",
+      "workflow": ".github/workflows/stale.yml",
+      "known_at_origin": true,
+      "actual": 3.45,
+      "predicted": 79.82534208401667,
+      "baseline": 3.9345238095238098
+    },
+    {
+      "origin": "2026-09-04",
+      "workflow": ".github/workflows/types-integration.yml",
+      "known_at_origin": true,
+      "actual": 2070.55,
+      "predicted": 2097.816527950986,
+      "baseline": 2160.5916666666667
+    },
+    {
+      "origin": "2026-09-04",
+      "workflow": ".github/workflows/update-readme.yml",
+      "known_at_origin": true,
+      "actual": 31.066666666666666,
+      "predicted": 96.2000190093836,
+      "baseline": 26.46785714285714
+    },
+    {
+      "origin": "2026-09-04",
+      "workflow": "dynamic/agents/copilot-pull-request-reviewer",
+      "known_at_origin": true,
+      "actual": 6.033333333333333,
+      "predicted": 74.10181855506418,
+      "baseline": 0.0
+    },
+    {
+      "origin": "2026-09-04",
+      "workflow": "dynamic/copilot-swe-agent/copilot",
+      "known_at_origin": true,
+      "actual": 1.0166666666666666,
+      "predicted": 77.09003921489438,
+      "baseline": 0.0
+    },
+    {
+      "origin": "2026-09-04",
+      "workflow": "dynamic/dependabot/dependabot-updates",
+      "known_at_origin": true,
+      "actual": 8.233333333333333,
+      "predicted": 79.88320343617426,
+      "baseline": 9.739285714285714
+    },
+    {
+      "origin": "2026-09-05",
+      "workflow": ".github/workflows/ci.yml",
+      "known_at_origin": true,
+      "actual": 7797.466666666666,
+      "predicted": 10886.704767602925,
+      "baseline": 13187.283333333331
+    },
+    {
+      "origin": "2026-09-05",
+      "workflow": ".github/workflows/codeql-analysis.yml",
+      "known_at_origin": true,
+      "actual": 391.96666666666664,
+      "predicted": 571.67295435277,
+      "baseline": 609.5261904761904
+    },
+    {
+      "origin": "2026-09-05",
+      "workflow": ".github/workflows/docs-ci.yml",
+      "known_at_origin": true,
+      "actual": 981.85,
+      "predicted": 1174.4118011947455,
+      "baseline": 1885.392857142857
+    },
+    {
+      "origin": "2026-09-05",
+      "workflow": ".github/workflows/ecosystem-tests.yml",
+      "known_at_origin": true,
+      "actual": 5210.466666666666,
+      "predicted": 6669.784258505508,
+      "baseline": 9035.326190476188
+    },
+    {
+      "origin": "2026-09-05",
+      "workflow": ".github/workflows/ecosystem-updates.yml",
+      "known_at_origin": true,
+      "actual": 3.3,
+      "predicted": 78.49214023042995,
+      "baseline": 5.292857142857143
+    },
+    {
+      "origin": "2026-09-05",
+      "workflow": ".github/workflows/pinact.yml",
+      "known_at_origin": true,
+      "actual": 0,
+      "predicted": 73.20262917117213,
+      "baseline": 0.0
+    },
+    {
+      "origin": "2026-09-05",
+      "workflow": ".github/workflows/pr-labeler.yml",
+      "known_at_origin": true,
+      "actual": 12.383333333333333,
+      "predicted": 93.3574064108042,
+      "baseline": 21.826190476190476
+    },
+    {
+      "origin": "2026-09-05",
+      "workflow": ".github/workflows/rebuild-docs-sites.yml",
+      "known_at_origin": true,
+      "actual": 0.2,
+      "predicted": 76.28655646388313,
+      "baseline": 0.5023809523809524
+    },
+    {
+      "origin": "2026-09-05",
+      "workflow": ".github/workflows/stale.yml",
+      "known_at_origin": true,
+      "actual": 3.45,
+      "predicted": 79.94831938244641,
+      "baseline": 3.8238095238095244
+    },
+    {
+      "origin": "2026-09-05",
+      "workflow": ".github/workflows/types-integration.yml",
+      "known_at_origin": true,
+      "actual": 2070.55,
+      "predicted": 2610.2018017077726,
+      "baseline": 3484.564285714285
+    },
+    {
+      "origin": "2026-09-05",
+      "workflow": ".github/workflows/update-readme.yml",
+      "known_at_origin": true,
+      "actual": 31.066666666666666,
+      "predicted": 105.37412547223974,
+      "baseline": 41.76904761904762
+    },
+    {
+      "origin": "2026-09-05",
+      "workflow": "dynamic/agents/copilot-pull-request-reviewer",
+      "known_at_origin": true,
+      "actual": 6.033333333333333,
+      "predicted": 74.10181855506418,
+      "baseline": 0.0
+    },
+    {
+      "origin": "2026-09-05",
+      "workflow": "dynamic/copilot-swe-agent/copilot",
+      "known_at_origin": true,
+      "actual": 1.0166666666666666,
+      "predicted": 77.09003921489438,
+      "baseline": 0.0
+    },
+    {
+      "origin": "2026-09-05",
+      "workflow": "dynamic/dependabot/dependabot-updates",
+      "known_at_origin": true,
+      "actual": 8.233333333333333,
+      "predicted": 83.2281859534623,
+      "baseline": 12.295238095238094
+    },
+    {
+      "origin": "2026-09-06",
+      "workflow": ".github/workflows/ci.yml",
+      "known_at_origin": true,
+      "actual": 7797.466666666666,
+      "predicted": 10165.425412220564,
+      "baseline": 12882.854761904759
+    },
+    {
+      "origin": "2026-09-06",
+      "workflow": ".github/workflows/codeql-analysis.yml",
+      "known_at_origin": true,
+      "actual": 391.96666666666664,
+      "predicted": 545.0541496193838,
+      "baseline": 599.9785714285714
+    },
+    {
+      "origin": "2026-09-06",
+      "workflow": ".github/workflows/docs-ci.yml",
+      "known_at_origin": true,
+      "actual": 981.85,
+      "predicted": 1140.8682481382257,
+      "baseline": 1826.6392857142855
+    },
+    {
+      "origin": "2026-09-06",
+      "workflow": ".github/workflows/ecosystem-tests.yml",
+      "known_at_origin": true,
+      "actual": 5210.466666666666,
+      "predicted": 5948.322303987807,
+      "baseline": 8836.222619047618
+    },
+    {
+      "origin": "2026-09-06",
+      "workflow": ".github/workflows/ecosystem-updates.yml",
+      "known_at_origin": true,
+      "actual": 3.3,
+      "predicted": 74.79450758145487,
+      "baseline": 5.089285714285714
+    },
+    {
+      "origin": "2026-09-06",
+      "workflow": ".github/workflows/pinact.yml",
+      "known_at_origin": true,
+      "actual": 0,
+      "predicted": 69.79957557096265,
+      "baseline": 0.0
+    },
+    {
+      "origin": "2026-09-06",
+      "workflow": ".github/workflows/pr-labeler.yml",
+      "known_at_origin": true,
+      "actual": 12.383333333333333,
+      "predicted": 88.73900695742648,
+      "baseline": 21.14761904761905
+    },
+    {
+      "origin": "2026-09-06",
+      "workflow": ".github/workflows/rebuild-docs-sites.yml",
+      "known_at_origin": true,
+      "actual": 0.2,
+      "predicted": 72.59846463035811,
+      "baseline": 0.48690476190476195
+    },
+    {
+      "origin": "2026-09-06",
+      "workflow": ".github/workflows/stale.yml",
+      "known_at_origin": true,
+      "actual": 3.45,
+      "predicted": 76.27440707493884,
+      "baseline": 3.8273809523809526
+    },
+    {
+      "origin": "2026-09-06",
+      "workflow": ".github/workflows/types-integration.yml",
+      "known_at_origin": true,
+      "actual": 2070.55,
+      "predicted": 2308.7801110325827,
+      "baseline": 3406.8023809523806
+    },
+    {
+      "origin": "2026-09-06",
+      "workflow": ".github/workflows/update-readme.yml",
+      "known_at_origin": true,
+      "actual": 31.066666666666666,
+      "predicted": 97.66260643657174,
+      "baseline": 41.32738095238095
+    },
+    {
+      "origin": "2026-09-06",
+      "workflow": "dynamic/agents/copilot-pull-request-reviewer",
+      "known_at_origin": true,
+      "actual": 6.033333333333333,
+      "predicted": 70.63254517575324,
+      "baseline": 0.0
+    },
+    {
+      "origin": "2026-09-06",
+      "workflow": "dynamic/copilot-swe-agent/copilot",
+      "known_at_origin": true,
+      "actual": 1.0166666666666666,
+      "predicted": 73.40070172501328,
+      "baseline": 0.0
+    },
+    {
+      "origin": "2026-09-06",
+      "workflow": "dynamic/dependabot/dependabot-updates",
+      "known_at_origin": true,
+      "actual": 8.233333333333333,
+      "predicted": 77.75609759794061,
+      "baseline": 11.909523809523812
+    },
+    {
+      "origin": "2026-09-07",
+      "workflow": ".github/workflows/ci.yml",
+      "known_at_origin": true,
+      "actual": 7797.466666666666,
+      "predicted": 10116.358562257035,
+      "baseline": 12191.157142857142
+    },
+    {
+      "origin": "2026-09-07",
+      "workflow": ".github/workflows/codeql-analysis.yml",
+      "known_at_origin": true,
+      "actual": 391.96666666666664,
+      "predicted": 533.124476360851,
+      "baseline": 569.597619047619
+    },
+    {
+      "origin": "2026-09-07",
+      "workflow": ".github/workflows/docs-ci.yml",
+      "known_at_origin": true,
+      "actual": 981.85,
+      "predicted": 1160.4450463506384,
+      "baseline": 1715.8333333333333
+    },
+    {
+      "origin": "2026-09-07",
+      "workflow": ".github/workflows/ecosystem-tests.yml",
+      "known_at_origin": true,
+      "actual": 5210.466666666666,
+      "predicted": 5960.203116182835,
+      "baseline": 8447.954761904759
+    },
+    {
+      "origin": "2026-09-07",
+      "workflow": ".github/workflows/ecosystem-updates.yml",
+      "known_at_origin": true,
+      "actual": 3.3,
+      "predicted": 67.08321345856345,
+      "baseline": 4.885714285714286
+    },
+    {
+      "origin": "2026-09-07",
+      "workflow": ".github/workflows/pinact.yml",
+      "known_at_origin": true,
+      "actual": 0,
+      "predicted": 62.35761340134917,
+      "baseline": 0.0
+    },
+    {
+      "origin": "2026-09-07",
+      "workflow": ".github/workflows/pr-labeler.yml",
+      "known_at_origin": true,
+      "actual": 12.383333333333333,
+      "predicted": 80.78797421861273,
+      "baseline": 19.90952380952381
+    },
+    {
+      "origin": "2026-09-07",
+      "workflow": ".github/workflows/rebuild-docs-sites.yml",
+      "known_at_origin": true,
+      "actual": 0.2,
+      "predicted": 64.96762197089595,
+      "baseline": 0.4714285714285714
+    },
+    {
+      "origin": "2026-09-07",
+      "workflow": ".github/workflows/stale.yml",
+      "known_at_origin": true,
+      "actual": 3.45,
+      "predicted": 68.55111903579188,
+      "baseline": 3.7738095238095237
+    },
+    {
+      "origin": "2026-09-07",
+      "workflow": ".github/workflows/types-integration.yml",
+      "known_at_origin": true,
+      "actual": 2070.55,
+      "predicted": 2309.8590489540443,
+      "baseline": 3259.383333333333
+    },
+    {
+      "origin": "2026-09-07",
+      "workflow": ".github/workflows/update-readme.yml",
+      "known_at_origin": true,
+      "actual": 31.066666666666666,
+      "predicted": 90.19907143670905,
+      "baseline": 41.328571428571436
+    },
+    {
+      "origin": "2026-09-07",
+      "workflow": "dynamic/agents/copilot-pull-request-reviewer",
+      "known_at_origin": true,
+      "actual": 6.033333333333333,
+      "predicted": 63.130038637740995,
+      "baseline": 0.0
+    },
+    {
+      "origin": "2026-09-07",
+      "workflow": "dynamic/copilot-swe-agent/copilot",
+      "known_at_origin": true,
+      "actual": 1.0166666666666666,
+      "predicted": 65.69699181902692,
+      "baseline": 0.0
+    },
+    {
+      "origin": "2026-09-07",
+      "workflow": "dynamic/dependabot/dependabot-updates",
+      "known_at_origin": true,
+      "actual": 8.233333333333333,
+      "predicted": 70.07174729179867,
+      "baseline": 11.523809523809526
+    },
+    {
+      "origin": "2026-09-08",
+      "workflow": ".github/workflows/ci.yml",
+      "known_at_origin": true,
+      "actual": 7797.466666666666,
+      "predicted": 10608.618040710724,
+      "baseline": 12670.686904761904
+    },
+    {
+      "origin": "2026-09-08",
+      "workflow": ".github/workflows/codeql-analysis.yml",
+      "known_at_origin": true,
+      "actual": 391.96666666666664,
+      "predicted": 547.6610707582697,
+      "baseline": 580.7845238095239
+    },
+    {
+      "origin": "2026-09-08",
+      "workflow": ".github/workflows/docs-ci.yml",
+      "known_at_origin": true,
+      "actual": 981.85,
+      "predicted": 1268.9957780957375,
+      "baseline": 1813.6178571428572
+    },
+    {
+      "origin": "2026-09-08",
+      "workflow": ".github/workflows/ecosystem-tests.yml",
+      "known_at_origin": true,
+      "actual": 5210.466666666666,
+      "predicted": 6220.224088447019,
+      "baseline": 8591.619047619046
+    },
+    {
+      "origin": "2026-09-08",
+      "workflow": ".github/workflows/ecosystem-updates.yml",
+      "known_at_origin": true,
+      "actual": 3.3,
+      "predicted": 62.17170304334519,
+      "baseline": 3.576190476190476
+    },
+    {
+      "origin": "2026-09-08",
+      "workflow": ".github/workflows/pinact.yml",
+      "known_at_origin": true,
+      "actual": 0,
+      "predicted": 56.836236902065295,
+      "baseline": 0.0
+    },
+    {
+      "origin": "2026-09-08",
+      "workflow": ".github/workflows/pr-labeler.yml",
+      "known_at_origin": true,
+      "actual": 12.383333333333333,
+      "predicted": 75.45704492025743,
+      "baseline": 20.413095238095238
+    },
+    {
+      "origin": "2026-09-08",
+      "workflow": ".github/workflows/rebuild-docs-sites.yml",
+      "known_at_origin": true,
+      "actual": 0.2,
+      "predicted": 59.28887745594368,
+      "baseline": 0.26428571428571435
+    },
+    {
+      "origin": "2026-09-08",
+      "workflow": ".github/workflows/stale.yml",
+      "known_at_origin": true,
+      "actual": 3.45,
+      "predicted": 62.71883068777421,
+      "baseline": 3.6857142857142855
+    },
+    {
+      "origin": "2026-09-08",
+      "workflow": ".github/workflows/types-integration.yml",
+      "known_at_origin": true,
+      "actual": 2070.55,
+      "predicted": 2423.8549935697642,
+      "baseline": 3353.2642857142855
+    },
+    {
+      "origin": "2026-09-08",
+      "workflow": ".github/workflows/update-readme.yml",
+      "known_at_origin": true,
+      "actual": 31.066666666666666,
+      "predicted": 84.61386295614986,
+      "baseline": 41.17738095238096
+    },
+    {
+      "origin": "2026-09-08",
+      "workflow": "dynamic/agents/copilot-pull-request-reviewer",
+      "known_at_origin": true,
+      "actual": 6.033333333333333,
+      "predicted": 57.55821888133479,
+      "baseline": 0.0
+    },
+    {
+      "origin": "2026-09-08",
+      "workflow": "dynamic/copilot-swe-agent/copilot",
+      "known_at_origin": true,
+      "actual": 1.0166666666666666,
+      "predicted": 59.95753709519095,
+      "baseline": 0.0
+    },
+    {
+      "origin": "2026-09-08",
+      "workflow": "dynamic/dependabot/dependabot-updates",
+      "known_at_origin": true,
+      "actual": 8.233333333333333,
+      "predicted": 64.34842224770938,
+      "baseline": 11.13809523809524
+    },
+    {
+      "origin": "2026-09-09",
+      "workflow": ".github/workflows/ci.yml",
+      "known_at_origin": true,
+      "actual": 7797.466666666666,
+      "predicted": 10391.146953475543,
+      "baseline": 12302.65714285714
+    },
+    {
+      "origin": "2026-09-09",
+      "workflow": ".github/workflows/codeql-analysis.yml",
+      "known_at_origin": true,
+      "actual": 391.96666666666664,
+      "predicted": 535.3467902282392,
+      "baseline": 559.9285714285714
+    },
+    {
+      "origin": "2026-09-09",
+      "workflow": ".github/workflows/docs-ci.yml",
+      "known_at_origin": true,
+      "actual": 981.85,
+      "predicted": 1279.8499098543816,
+      "baseline": 1874.5190476190478
+    },
+    {
+      "origin": "2026-09-09",
+      "workflow": ".github/workflows/ecosystem-tests.yml",
+      "known_at_origin": true,
+      "actual": 5210.466666666666,
+      "predicted": 6162.088380696579,
+      "baseline": 8375.307142857142
+    },
+    {
+      "origin": "2026-09-09",
+      "workflow": ".github/workflows/ecosystem-updates.yml",
+      "known_at_origin": true,
+      "actual": 3.3,
+      "predicted": 61.02181009313895,
+      "baseline": 3.4547619047619045
+    },
+    {
+      "origin": "2026-09-09",
+      "workflow": ".github/workflows/pinact.yml",
+      "known_at_origin": true,
+      "actual": 0,
+      "predicted": 56.15135426332005,
+      "baseline": 0.0
+    },
+    {
+      "origin": "2026-09-09",
+      "workflow": ".github/workflows/pr-labeler.yml",
+      "known_at_origin": true,
+      "actual": 12.383333333333333,
+      "predicted": 74.34785378700812,
+      "baseline": 20.016666666666666
+    },
+    {
+      "origin": "2026-09-09",
+      "workflow": ".github/workflows/rebuild-docs-sites.yml",
+      "known_at_origin": true,
+      "actual": 0.2,
+      "predicted": 58.50111225889174,
+      "baseline": 0.2571428571428572
+    },
+    {
+      "origin": "2026-09-09",
+      "workflow": ".github/workflows/stale.yml",
+      "known_at_origin": true,
+      "actual": 3.45,
+      "predicted": 61.89576578043224,
+      "baseline": 3.702380952380952
+    },
+    {
+      "origin": "2026-09-09",
+      "workflow": ".github/workflows/types-integration.yml",
+      "known_at_origin": true,
+      "actual": 2070.55,
+      "predicted": 2403.852205495784,
+      "baseline": 3284.3452380952376
+    },
+    {
+      "origin": "2026-09-09",
+      "workflow": ".github/workflows/update-readme.yml",
+      "known_at_origin": true,
+      "actual": 31.066666666666666,
+      "predicted": 83.89751908173847,
+      "baseline": 40.904761904761905
+    },
+    {
+      "origin": "2026-09-09",
+      "workflow": "dynamic/agents/copilot-pull-request-reviewer",
+      "known_at_origin": true,
+      "actual": 6.033333333333333,
+      "predicted": 56.84094677307176,
+      "baseline": 0.0
+    },
+    {
+      "origin": "2026-09-09",
+      "workflow": "dynamic/copilot-swe-agent/copilot",
+      "known_at_origin": true,
+      "actual": 1.0166666666666666,
+      "predicted": 59.1326270591366,
+      "baseline": 0.0
+    },
+    {
+      "origin": "2026-09-09",
+      "workflow": "dynamic/dependabot/dependabot-updates",
+      "known_at_origin": true,
+      "actual": 8.233333333333333,
+      "predicted": 63.53386903237383,
+      "baseline": 10.752380952380953
+    },
+    {
+      "origin": "2026-09-10",
+      "workflow": ".github/workflows/ci.yml",
+      "known_at_origin": true,
+      "actual": 7797.466666666666,
+      "predicted": 10485.965655433556,
+      "baseline": 12532.799999999997
+    },
+    {
+      "origin": "2026-09-10",
+      "workflow": ".github/workflows/codeql-analysis.yml",
+      "known_at_origin": true,
+      "actual": 391.96666666666664,
+      "predicted": 544.891681211954,
+      "baseline": 580.6083333333333
+    },
+    {
+      "origin": "2026-09-10",
+      "workflow": ".github/workflows/docs-ci.yml",
+      "known_at_origin": true,
+      "actual": 981.85,
+      "predicted": 1266.634090304683,
+      "baseline": 1887.2916666666665
+    },
+    {
+      "origin": "2026-09-10",
+      "workflow": ".github/workflows/ecosystem-tests.yml",
+      "known_at_origin": true,
+      "actual": 5210.466666666666,
+      "predicted": 6241.966270140936,
+      "baseline": 8431.266666666666
+    },
+    {
+      "origin": "2026-09-10",
+      "workflow": ".github/workflows/ecosystem-updates.yml",
+      "known_at_origin": true,
+      "actual": 3.3,
+      "predicted": 61.02181009313895,
+      "baseline": 3.333333333333333
+    },
+    {
+      "origin": "2026-09-10",
+      "workflow": ".github/workflows/pinact.yml",
+      "known_at_origin": true,
+      "actual": 0,
+      "predicted": 56.15135426332005,
+      "baseline": 0.0
+    },
+    {
+      "origin": "2026-09-10",
+      "workflow": ".github/workflows/pr-labeler.yml",
+      "known_at_origin": true,
+      "actual": 12.383333333333333,
+      "predicted": 74.62375488682271,
+      "baseline": 19.741666666666667
+    },
+    {
+      "origin": "2026-09-10",
+      "workflow": ".github/workflows/rebuild-docs-sites.yml",
+      "known_at_origin": true,
+      "actual": 0.2,
+      "predicted": 58.50111225889174,
+      "baseline": 0.25
+    },
+    {
+      "origin": "2026-09-10",
+      "workflow": ".github/workflows/stale.yml",
+      "known_at_origin": true,
+      "actual": 3.45,
+      "predicted": 61.96474105538591,
+      "baseline": 3.4250000000000003
+    },
+    {
+      "origin": "2026-09-10",
+      "workflow": ".github/workflows/types-integration.yml",
+      "known_at_origin": true,
+      "actual": 2070.55,
+      "predicted": 2449.6915877941283,
+      "baseline": 3347.2499999999995
+    },
+    {
+      "origin": "2026-09-10",
+      "workflow": ".github/workflows/update-readme.yml",
+      "known_at_origin": true,
+      "actual": 31.066666666666666,
+      "predicted": 84.44932128136767,
+      "baseline": 40.141666666666666
+    },
+    {
+      "origin": "2026-09-10",
+      "workflow": "dynamic/agents/copilot-pull-request-reviewer",
+      "known_at_origin": true,
+      "actual": 6.033333333333333,
+      "predicted": 56.84094677307176,
+      "baseline": 0.0
+    },
+    {
+      "origin": "2026-09-10",
+      "workflow": "dynamic/copilot-swe-agent/copilot",
+      "known_at_origin": true,
+      "actual": 1.0166666666666666,
+      "predicted": 59.1326270591366,
+      "baseline": 0.0
+    },
+    {
+      "origin": "2026-09-10",
+      "workflow": "dynamic/dependabot/dependabot-updates",
+      "known_at_origin": true,
+      "actual": 8.233333333333333,
+      "predicted": 63.53386903237383,
+      "baseline": 10.366666666666667
+    },
+    {
+      "origin": "2026-09-11",
+      "workflow": ".github/workflows/ci.yml",
+      "known_at_origin": true,
+      "actual": 7797.466666666666,
+      "predicted": 10310.313940470485,
+      "baseline": 12033.588095238094
+    },
+    {
+      "origin": "2026-09-11",
+      "workflow": ".github/workflows/codeql-analysis.yml",
+      "known_at_origin": true,
+      "actual": 391.96666666666664,
+      "predicted": 539.534066733805,
+      "baseline": 566.4119047619048
+    },
+    {
+      "origin": "2026-09-11",
+      "workflow": ".github/workflows/docs-ci.yml",
+      "known_at_origin": true,
+      "actual": 981.85,
+      "predicted": 1260.9776419792001,
+      "baseline": 1751.3428571428572
+    },
+    {
+      "origin": "2026-09-11",
+      "workflow": ".github/workflows/ecosystem-tests.yml",
+      "known_at_origin": true,
+      "actual": 5210.466666666666,
+      "predicted": 6194.795113383012,
+      "baseline": 8163.092857142856
+    },
+    {
+      "origin": "2026-09-11",
+      "workflow": ".github/workflows/ecosystem-updates.yml",
+      "known_at_origin": true,
+      "actual": 3.3,
+      "predicted": 61.02181009313895,
+      "baseline": 3.2119047619047616
+    },
+    {
+      "origin": "2026-09-11",
+      "workflow": ".github/workflows/pinact.yml",
+      "known_at_origin": true,
+      "actual": 0,
+      "predicted": 56.15135426332005,
+      "baseline": 0.0
+    },
+    {
+      "origin": "2026-09-11",
+      "workflow": ".github/workflows/pr-labeler.yml",
+      "known_at_origin": true,
+      "actual": 12.383333333333333,
+      "predicted": 74.78469719504788,
+      "baseline": 19.04047619047619
+    },
+    {
+      "origin": "2026-09-11",
+      "workflow": ".github/workflows/rebuild-docs-sites.yml",
+      "known_at_origin": true,
+      "actual": 0.2,
+      "predicted": 58.50111225889174,
+      "baseline": 0.24285714285714288
+    },
+    {
+      "origin": "2026-09-11",
+      "workflow": ".github/workflows/stale.yml",
+      "known_at_origin": true,
+      "actual": 3.45,
+      "predicted": 62.04521220949848,
+      "baseline": 3.592857142857143
+    },
+    {
+      "origin": "2026-09-11",
+      "workflow": ".github/workflows/types-integration.yml",
+      "known_at_origin": true,
+      "actual": 2070.55,
+      "predicted": 2434.9784842856798,
+      "baseline": 3262.2
+    },
+    {
+      "origin": "2026-09-11",
+      "workflow": ".github/workflows/update-readme.yml",
+      "known_at_origin": true,
+      "actual": 31.066666666666666,
+      "predicted": 85.01261936015578,
+      "baseline": 39.730952380952374
+    },
+    {
+      "origin": "2026-09-11",
+      "workflow": "dynamic/agents/copilot-pull-request-reviewer",
+      "known_at_origin": true,
+      "actual": 6.033333333333333,
+      "predicted": 56.84094677307176,
+      "baseline": 0.0
+    },
+    {
+      "origin": "2026-09-11",
+      "workflow": "dynamic/copilot-swe-agent/copilot",
+      "known_at_origin": true,
+      "actual": 1.0166666666666666,
+      "predicted": 59.1326270591366,
+      "baseline": 0.0
+    },
+    {
+      "origin": "2026-09-11",
+      "workflow": "dynamic/dependabot/dependabot-updates",
+      "known_at_origin": true,
+      "actual": 8.233333333333333,
+      "predicted": 63.53386903237383,
+      "baseline": 9.980952380952381
+    },
+    {
+      "origin": "2026-09-12",
+      "workflow": ".github/workflows/ci.yml",
+      "known_at_origin": true,
+      "actual": 7797.466666666666,
+      "predicted": 10169.04514656214,
+      "baseline": 11203.090476190473
+    },
+    {
+      "origin": "2026-09-12",
+      "workflow": ".github/workflows/codeql-analysis.yml",
+      "known_at_origin": true,
+      "actual": 391.96666666666664,
+      "predicted": 537.5935757657601,
+      "baseline": 535.7869047619048
+    },
+    {
+      "origin": "2026-09-12",
+      "workflow": ".github/workflows/docs-ci.yml",
+      "known_at_origin": true,
+      "actual": 981.85,
+      "predicted": 1248.0547133208386,
+      "baseline": 1599.7130952380953
+    },
+    {
+      "origin": "2026-09-12",
+      "workflow": ".github/workflows/ecosystem-tests.yml",
+      "known_at_origin": true,
+      "actual": 5210.466666666666,
+      "predicted": 6132.170294762338,
+      "baseline": 7684.971428571427
+    },
+    {
+      "origin": "2026-09-12",
+      "workflow": ".github/workflows/ecosystem-updates.yml",
+      "known_at_origin": true,
+      "actual": 3.3,
+      "predicted": 61.02181009313895,
+      "baseline": 3.09047619047619
+    },
+    {
+      "origin": "2026-09-12",
+      "workflow": ".github/workflows/pinact.yml",
+      "known_at_origin": true,
+      "actual": 0,
+      "predicted": 56.15135426332005,
+      "baseline": 0.0
+    },
+    {
+      "origin": "2026-09-12",
+      "workflow": ".github/workflows/pr-labeler.yml",
+      "known_at_origin": true,
+      "actual": 12.383333333333333,
+      "predicted": 74.95490632570204,
+      "baseline": 17.27857142857143
+    },
+    {
+      "origin": "2026-09-12",
+      "workflow": ".github/workflows/rebuild-docs-sites.yml",
+      "known_at_origin": true,
+      "actual": 0.2,
+      "predicted": 58.50111225889174,
+      "baseline": 0.23571428571428574
+    },
+    {
+      "origin": "2026-09-12",
+      "workflow": ".github/workflows/stale.yml",
+      "known_at_origin": true,
+      "actual": 3.45,
+      "predicted": 62.23973693024605,
+      "baseline": 3.4214285714285717
+    },
+    {
+      "origin": "2026-09-12",
+      "workflow": ".github/workflows/types-integration.yml",
+      "known_at_origin": true,
+      "actual": 2070.55,
+      "predicted": 2408.079460179556,
+      "baseline": 3075.5523809523806
+    },
+    {
+      "origin": "2026-09-12",
+      "workflow": ".github/workflows/update-readme.yml",
+      "known_at_origin": true,
+      "actual": 31.066666666666666,
+      "predicted": 86.2283988648281,
+      "baseline": 39.35476190476191
+    },
+    {
+      "origin": "2026-09-12",
+      "workflow": "dynamic/agents/copilot-pull-request-reviewer",
+      "known_at_origin": true,
+      "actual": 6.033333333333333,
+      "predicted": 56.84094677307176,
+      "baseline": 0.0
+    },
+    {
+      "origin": "2026-09-12",
+      "workflow": "dynamic/copilot-swe-agent/copilot",
+      "known_at_origin": true,
+      "actual": 1.0166666666666666,
+      "predicted": 59.1326270591366,
+      "baseline": 0.0
+    },
+    {
+      "origin": "2026-09-12",
+      "workflow": "dynamic/dependabot/dependabot-updates",
+      "known_at_origin": true,
+      "actual": 8.233333333333333,
+      "predicted": 66.4031086634005,
+      "baseline": 11.697619047619048
+    },
+    {
+      "origin": "2026-09-13",
+      "workflow": ".github/workflows/ci.yml",
+      "known_at_origin": true,
+      "actual": 7797.466666666666,
+      "predicted": 10017.828355614,
+      "baseline": 10262.666666666664
+    },
+    {
+      "origin": "2026-09-13",
+      "workflow": ".github/workflows/codeql-analysis.yml",
+      "known_at_origin": true,
+      "actual": 391.96666666666664,
+      "predicted": 525.6891565041121,
+      "baseline": 484.1833333333334
+    },
+    {
+      "origin": "2026-09-13",
+      "workflow": ".github/workflows/docs-ci.yml",
+      "known_at_origin": true,
+      "actual": 981.85,
+      "predicted": 1237.3026495509712,
+      "baseline": 1521.0619047619048
+    },
+    {
+      "origin": "2026-09-13",
+      "workflow": ".github/workflows/ecosystem-tests.yml",
+      "known_at_origin": true,
+      "actual": 5210.466666666666,
+      "predicted": 6074.272361662499,
+      "baseline": 7167.557142857142
+    },
+    {
+      "origin": "2026-09-13",
+      "workflow": ".github/workflows/ecosystem-updates.yml",
+      "known_at_origin": true,
+      "actual": 3.3,
+      "predicted": 57.35570008709341,
+      "baseline": 2.9690476190476187
+    },
+    {
+      "origin": "2026-09-13",
+      "workflow": ".github/workflows/pinact.yml",
+      "known_at_origin": true,
+      "actual": 0,
+      "predicted": 52.81483637771899,
+      "baseline": 0.0
+    },
+    {
+      "origin": "2026-09-13",
+      "workflow": ".github/workflows/pr-labeler.yml",
+      "known_at_origin": true,
+      "actual": 12.383333333333333,
+      "predicted": 70.60010682560801,
+      "baseline": 15.723809523809525
+    },
+    {
+      "origin": "2026-09-13",
+      "workflow": ".github/workflows/rebuild-docs-sites.yml",
+      "known_at_origin": true,
+      "actual": 0.2,
+      "predicted": 54.955008421697066,
+      "baseline": 0.2285714285714286
+    },
+    {
+      "origin": "2026-09-13",
+      "workflow": ".github/workflows/stale.yml",
+      "known_at_origin": true,
+      "actual": 3.45,
+      "predicted": 58.591467706601875,
+      "baseline": 3.461904761904762
+    },
+    {
+      "origin": "2026-09-13",
+      "workflow": ".github/workflows/types-integration.yml",
+      "known_at_origin": true,
+      "actual": 2070.55,
+      "predicted": 2382.101048100621,
+      "baseline": 2861.7095238095235
+    },
+    {
+      "origin": "2026-09-13",
+      "workflow": ".github/workflows/update-readme.yml",
+      "known_at_origin": true,
+      "actual": 31.066666666666666,
+      "predicted": 82.62098207728062,
+      "baseline": 38.469047619047615
+    },
+    {
+      "origin": "2026-09-13",
+      "workflow": "dynamic/agents/copilot-pull-request-reviewer",
+      "known_at_origin": true,
+      "actual": 6.033333333333333,
+      "predicted": 53.43950382212967,
+      "baseline": 0.0
+    },
+    {
+      "origin": "2026-09-13",
+      "workflow": "dynamic/copilot-swe-agent/copilot",
+      "known_at_origin": true,
+      "actual": 1.0166666666666666,
+      "predicted": 55.5154226400675,
+      "baseline": 0.0
+    },
+    {
+      "origin": "2026-09-13",
+      "workflow": "dynamic/dependabot/dependabot-updates",
+      "known_at_origin": true,
+      "actual": 8.233333333333333,
+      "predicted": 61.28702495601273,
+      "baseline": 9.676190476190476
+    },
+    {
+      "origin": "2026-09-14",
+      "workflow": ".github/workflows/ci.yml",
+      "known_at_origin": true,
+      "actual": 7797.466666666666,
+      "predicted": 10034.816427596583,
+      "baseline": 10184.454761904759
+    },
+    {
+      "origin": "2026-09-14",
+      "workflow": ".github/workflows/codeql-analysis.yml",
+      "known_at_origin": true,
+      "actual": 391.96666666666664,
+      "predicted": 516.6941106196264,
+      "baseline": 476.0976190476191
+    },
+    {
+      "origin": "2026-09-14",
+      "workflow": ".github/workflows/docs-ci.yml",
+      "known_at_origin": true,
+      "actual": 981.85,
+      "predicted": 1245.802015488032,
+      "baseline": 1492.4333333333332
+    },
+    {
+      "origin": "2026-09-14",
+      "workflow": ".github/workflows/ecosystem-tests.yml",
+      "known_at_origin": true,
+      "actual": 5210.466666666666,
+      "predicted": 6069.5006973393365,
+      "baseline": 7018.5869047619035
+    },
+    {
+      "origin": "2026-09-14",
+      "workflow": ".github/workflows/ecosystem-updates.yml",
+      "known_at_origin": true,
+      "actual": 3.3,
+      "predicted": 49.841834181899834,
+      "baseline": 2.8476190476190473
+    },
+    {
+      "origin": "2026-09-14",
+      "workflow": ".github/workflows/pinact.yml",
+      "known_at_origin": true,
+      "actual": 0,
+      "predicted": 45.59898556957106,
+      "baseline": 0.0
+    },
+    {
+      "origin": "2026-09-14",
+      "workflow": ".github/workflows/pr-labeler.yml",
+      "known_at_origin": true,
+      "actual": 12.383333333333333,
+      "predicted": 62.88113163392258,
+      "baseline": 15.452380952380954
+    },
+    {
+      "origin": "2026-09-14",
+      "workflow": ".github/workflows/rebuild-docs-sites.yml",
+      "known_at_origin": true,
+      "actual": 0.2,
+      "predicted": 47.54965133039123,
+      "baseline": 0.22142857142857145
+    },
+    {
+      "origin": "2026-09-14",
+      "workflow": ".github/workflows/stale.yml",
+      "known_at_origin": true,
+      "actual": 3.45,
+      "predicted": 51.00780955838025,
+      "baseline": 3.3928571428571432
+    },
+    {
+      "origin": "2026-09-14",
+      "workflow": ".github/workflows/types-integration.yml",
+      "known_at_origin": true,
+      "actual": 2070.55,
+      "predicted": 2382.6964116504714,
+      "baseline": 2812.4309523809525
+    },
+    {
+      "origin": "2026-09-14",
+      "workflow": ".github/workflows/update-readme.yml",
+      "known_at_origin": true,
+      "actual": 31.066666666666666,
+      "predicted": 75.16601142741969,
+      "baseline": 38.07380952380953
+    },
+    {
+      "origin": "2026-09-14",
+      "workflow": "dynamic/agents/copilot-pull-request-reviewer",
+      "known_at_origin": true,
+      "actual": 6.033333333333333,
+      "predicted": 46.164948183228546,
+      "baseline": 0.0
+    },
+    {
+      "origin": "2026-09-14",
+      "workflow": "dynamic/copilot-swe-agent/copilot",
+      "known_at_origin": true,
+      "actual": 1.0166666666666666,
+      "predicted": 48.0457768552736,
+      "baseline": 0.0
+    },
+    {
+      "origin": "2026-09-14",
+      "workflow": "dynamic/dependabot/dependabot-updates",
+      "known_at_origin": true,
+      "actual": 8.233333333333333,
+      "predicted": 53.79375010396994,
+      "baseline": 9.373809523809523
+    },
+    {
+      "origin": "2026-09-15",
+      "workflow": ".github/workflows/ci.yml",
+      "known_at_origin": true,
+      "actual": 7797.466666666666,
+      "predicted": 9886.291565072923,
+      "baseline": 9836.035714285712
+    },
+    {
+      "origin": "2026-09-15",
+      "workflow": ".github/workflows/codeql-analysis.yml",
+      "known_at_origin": true,
+      "actual": 391.96666666666664,
+      "predicted": 506.6714937707616,
+      "baseline": 460.57142857142867
+    },
+    {
+      "origin": "2026-09-15",
+      "workflow": ".github/workflows/docs-ci.yml",
+      "known_at_origin": true,
+      "actual": 981.85,
+      "predicted": 1244.533138437269,
+      "baseline": 1473.0357142857142
+    },
+    {
+      "origin": "2026-09-15",
+      "workflow": ".github/workflows/ecosystem-tests.yml",
+      "known_at_origin": true,
+      "actual": 5210.466666666666,
+      "predicted": 6036.809968530079,
+      "baseline": 6828.8214285714275
+    },
+    {
+      "origin": "2026-09-15",
+      "workflow": ".github/workflows/ecosystem-updates.yml",
+      "known_at_origin": true,
+      "actual": 3.3,
+      "predicted": 45.12793546877962,
+      "baseline": 3.3928571428571432
+    },
+    {
+      "origin": "2026-09-15",
+      "workflow": ".github/workflows/pinact.yml",
+      "known_at_origin": true,
+      "actual": 0,
+      "predicted": 40.30792615132533,
+      "baseline": 0.0
+    },
+    {
+      "origin": "2026-09-15",
+      "workflow": ".github/workflows/pr-labeler.yml",
+      "known_at_origin": true,
+      "actual": 12.383333333333333,
+      "predicted": 56.93535803839581,
+      "baseline": 14.964285714285715
+    },
+    {
+      "origin": "2026-09-15",
+      "workflow": ".github/workflows/rebuild-docs-sites.yml",
+      "known_at_origin": true,
+      "actual": 0.2,
+      "predicted": 42.102547518172734,
+      "baseline": 0.2142857142857143
+    },
+    {
+      "origin": "2026-09-15",
+      "workflow": ".github/workflows/stale.yml",
+      "known_at_origin": true,
+      "actual": 3.45,
+      "predicted": 45.506019473235305,
+      "baseline": 3.357142857142857
+    },
+    {
+      "origin": "2026-09-15",
+      "workflow": ".github/workflows/types-integration.yml",
+      "known_at_origin": true,
+      "actual": 2070.55,
+      "predicted": 2369.7574797896204,
+      "baseline": 2743.5714285714284
+    },
+    {
+      "origin": "2026-09-15",
+      "workflow": ".github/workflows/update-readme.yml",
+      "known_at_origin": true,
+      "actual": 31.066666666666666,
+      "predicted": 69.58645176882459,
+      "baseline": 37.75
+    },
+    {
+      "origin": "2026-09-15",
+      "workflow": "dynamic/agents/copilot-pull-request-reviewer",
+      "known_at_origin": true,
+      "actual": 6.033333333333333,
+      "predicted": 40.825549683103745,
+      "baseline": 0.0
+    },
+    {
+      "origin": "2026-09-15",
+      "workflow": "dynamic/copilot-swe-agent/copilot",
+      "known_at_origin": true,
+      "actual": 1.0166666666666666,
+      "predicted": 42.54573606361849,
+      "baseline": 0.0
+    },
+    {
+      "origin": "2026-09-15",
+      "workflow": "dynamic/dependabot/dependabot-updates",
+      "known_at_origin": true,
+      "actual": 8.233333333333333,
+      "predicted": 48.274252524827084,
+      "baseline": 9.071428571428571
+    },
+    {
+      "origin": "2026-09-16",
+      "workflow": ".github/workflows/ci.yml",
+      "known_at_origin": true,
+      "actual": 7797.466666666666,
+      "predicted": 9726.61599682895,
+      "baseline": 8409.559523809523
+    },
+    {
+      "origin": "2026-09-16",
+      "workflow": ".github/workflows/codeql-analysis.yml",
+      "known_at_origin": true,
+      "actual": 391.96666666666664,
+      "predicted": 496.0648211615538,
+      "baseline": 389.58333333333337
+    },
+    {
+      "origin": "2026-09-16",
+      "workflow": ".github/workflows/docs-ci.yml",
+      "known_at_origin": true,
+      "actual": 981.85,
+      "predicted": 1240.7692599709649,
+      "baseline": 1252.8285714285714
+    },
+    {
+      "origin": "2026-09-16",
+      "workflow": ".github/workflows/ecosystem-tests.yml",
+      "known_at_origin": true,
+      "actual": 5210.466666666666,
+      "predicted": 5963.755064939402,
+      "baseline": 6062.085714285713
+    },
+    {
+      "origin": "2026-09-16",
+      "workflow": ".github/workflows/ecosystem-updates.yml",
+      "known_at_origin": true,
+      "actual": 3.3,
+      "predicted": 44.02961079748008,
+      "baseline": 3.279761904761905
+    },
+    {
+      "origin": "2026-09-16",
+      "workflow": ".github/workflows/pinact.yml",
+      "known_at_origin": true,
+      "actual": 0,
+      "predicted": 39.658251404701154,
+      "baseline": 0.0
+    },
+    {
+      "origin": "2026-09-16",
+      "workflow": ".github/workflows/pr-labeler.yml",
+      "known_at_origin": true,
+      "actual": 12.383333333333333,
+      "predicted": 55.81623474806668,
+      "baseline": 12.25952380952381
+    },
+    {
+      "origin": "2026-09-16",
+      "workflow": ".github/workflows/rebuild-docs-sites.yml",
+      "known_at_origin": true,
+      "actual": 0.2,
+      "predicted": 41.35369064014835,
+      "baseline": 0.20714285714285716
+    },
+    {
+      "origin": "2026-09-16",
+      "workflow": ".github/workflows/stale.yml",
+      "known_at_origin": true,
+      "actual": 3.45,
+      "predicted": 44.68062629206728,
+      "baseline": 3.3285714285714283
+    },
+    {
+      "origin": "2026-09-16",
+      "workflow": ".github/workflows/types-integration.yml",
+      "known_at_origin": true,
+      "actual": 2070.55,
+      "predicted": 2339.904795547086,
+      "baseline": 2430.930952380952
+    },
+    {
+      "origin": "2026-09-16",
+      "workflow": ".github/workflows/update-readme.yml",
+      "known_at_origin": true,
+      "actual": 31.066666666666666,
+      "predicted": 68.75471905746923,
+      "baseline": 37.27380952380953
+    },
+    {
+      "origin": "2026-09-16",
+      "workflow": "dynamic/agents/copilot-pull-request-reviewer",
+      "known_at_origin": true,
+      "actual": 6.033333333333333,
+      "predicted": 40.14515051858393,
+      "baseline": 0.0
+    },
+    {
+      "origin": "2026-09-16",
+      "workflow": "dynamic/copilot-swe-agent/copilot",
+      "known_at_origin": true,
+      "actual": 1.0166666666666666,
+      "predicted": 41.76323233474134,
+      "baseline": 0.0
+    },
+    {
+      "origin": "2026-09-16",
+      "workflow": "dynamic/dependabot/dependabot-updates",
+      "known_at_origin": true,
+      "actual": 8.233333333333333,
+      "predicted": 47.47938202259717,
+      "baseline": 8.769047619047619
+    },
+    {
+      "origin": "2026-09-17",
+      "workflow": ".github/workflows/ci.yml",
+      "known_at_origin": true,
+      "actual": 7797.466666666666,
+      "predicted": 9601.719941738851,
+      "baseline": 7920.049999999999
+    },
+    {
+      "origin": "2026-09-17",
+      "workflow": ".github/workflows/codeql-analysis.yml",
+      "known_at_origin": true,
+      "actual": 391.96666666666664,
+      "predicted": 492.8425405320728,
+      "baseline": 371.7666666666667
+    },
+    {
+      "origin": "2026-09-17",
+      "workflow": ".github/workflows/docs-ci.yml",
+      "known_at_origin": true,
+      "actual": 981.85,
+      "predicted": 1212.4413993108878,
+      "baseline": 1129.2333333333333
+    },
+    {
+      "origin": "2026-09-17",
+      "workflow": ".github/workflows/ecosystem-tests.yml",
+      "known_at_origin": true,
+      "actual": 5210.466666666666,
+      "predicted": 5920.019502347129,
+      "baseline": 5771.716666666665
+    },
+    {
+      "origin": "2026-09-17",
+      "workflow": ".github/workflows/ecosystem-updates.yml",
+      "known_at_origin": true,
+      "actual": 3.3,
+      "predicted": 44.02961079748008,
+      "baseline": 3.166666666666667
+    },
+    {
+      "origin": "2026-09-17",
+      "workflow": ".github/workflows/pinact.yml",
+      "known_at_origin": true,
+      "actual": 0,
+      "predicted": 39.658251404701154,
+      "baseline": 0.0
+    },
+    {
+      "origin": "2026-09-17",
+      "workflow": ".github/workflows/pr-labeler.yml",
+      "known_at_origin": true,
+      "actual": 12.383333333333333,
+      "predicted": 55.924500476013,
+      "baseline": 11.083333333333332
+    },
+    {
+      "origin": "2026-09-17",
+      "workflow": ".github/workflows/rebuild-docs-sites.yml",
+      "known_at_origin": true,
+      "actual": 0.2,
+      "predicted": 41.35369064014835,
+      "baseline": 0.2
+    },
+    {
+      "origin": "2026-09-17",
+      "workflow": ".github/workflows/stale.yml",
+      "known_at_origin": true,
+      "actual": 3.45,
+      "predicted": 44.77806544721895,
+      "baseline": 3.35
+    },
+    {
+      "origin": "2026-09-17",
+      "workflow": ".github/workflows/types-integration.yml",
+      "known_at_origin": true,
+      "actual": 2070.55,
+      "predicted": 2326.516428728971,
+      "baseline": 2316.033333333333
+    },
+    {
+      "origin": "2026-09-17",
+      "workflow": ".github/workflows/update-readme.yml",
+      "known_at_origin": true,
+      "actual": 31.066666666666666,
+      "predicted": 69.20943511484361,
+      "baseline": 36.46666666666667
+    },
+    {
+      "origin": "2026-09-17",
+      "workflow": "dynamic/agents/copilot-pull-request-reviewer",
+      "known_at_origin": true,
+      "actual": 6.033333333333333,
+      "predicted": 40.14515051858393,
+      "baseline": 0.0
+    },
+    {
+      "origin": "2026-09-17",
+      "workflow": "dynamic/copilot-swe-agent/copilot",
+      "known_at_origin": true,
+      "actual": 1.0166666666666666,
+      "predicted": 41.76323233474134,
+      "baseline": 0.0
+    },
+    {
+      "origin": "2026-09-17",
+      "workflow": "dynamic/dependabot/dependabot-updates",
+      "known_at_origin": true,
+      "actual": 8.233333333333333,
+      "predicted": 47.47938202259717,
+      "baseline": 8.466666666666667
+    },
+    {
+      "origin": "2026-09-18",
+      "workflow": ".github/workflows/ci.yml",
+      "known_at_origin": true,
+      "actual": 7797.466666666666,
+      "predicted": 9744.951043302528,
+      "baseline": 8311.294047619045
+    },
+    {
+      "origin": "2026-09-18",
+      "workflow": ".github/workflows/codeql-analysis.yml",
+      "known_at_origin": true,
+      "actual": 391.96666666666664,
+      "predicted": 501.0671796624647,
+      "baseline": 384.6654761904762
+    },
+    {
+      "origin": "2026-09-18",
+      "workflow": ".github/workflows/docs-ci.yml",
+      "known_at_origin": true,
+      "actual": 981.85,
+      "predicted": 1208.836097481887,
+      "baseline": 1108.1476190476192
+    },
+    {
+      "origin": "2026-09-18",
+      "workflow": ".github/workflows/ecosystem-tests.yml",
+      "known_at_origin": true,
+      "actual": 5210.466666666666,
+      "predicted": 5977.313444043553,
+      "baseline": 5860.892857142857
+    },
+    {
+      "origin": "2026-09-18",
+      "workflow": ".github/workflows/ecosystem-updates.yml",
+      "known_at_origin": true,
+      "actual": 3.3,
+      "predicted": 44.02961079748008,
+      "baseline": 3.053571428571429
+    },
+    {
+      "origin": "2026-09-18",
+      "workflow": ".github/workflows/pinact.yml",
+      "known_at_origin": true,
+      "actual": 0,
+      "predicted": 39.658251404701154,
+      "baseline": 0.0
+    },
+    {
+      "origin": "2026-09-18",
+      "workflow": ".github/workflows/pr-labeler.yml",
+      "known_at_origin": true,
+      "actual": 12.383333333333333,
+      "predicted": 56.31425709661964,
+      "baseline": 11.783333333333333
+    },
+    {
+      "origin": "2026-09-18",
+      "workflow": ".github/workflows/rebuild-docs-sites.yml",
+      "known_at_origin": true,
+      "actual": 0.2,
+      "predicted": 41.35369064014835,
+      "baseline": 0.19285714285714287
+    },
+    {
+      "origin": "2026-09-18",
+      "workflow": ".github/workflows/stale.yml",
+      "known_at_origin": true,
+      "actual": 3.45,
+      "predicted": 44.886331175165246,
+      "baseline": 3.4523809523809526
+    },
+    {
+      "origin": "2026-09-18",
+      "workflow": ".github/workflows/types-integration.yml",
+      "known_at_origin": true,
+      "actual": 2070.55,
+      "predicted": 2365.2123157430483,
+      "baseline": 2375.852380952381
+    },
+    {
+      "origin": "2026-09-18",
+      "workflow": ".github/workflows/update-readme.yml",
+      "known_at_origin": true,
+      "actual": 31.066666666666666,
+      "predicted": 69.80489661854821,
+      "baseline": 36.175
+    },
+    {
+      "origin": "2026-09-18",
+      "workflow": "dynamic/agents/copilot-pull-request-reviewer",
+      "known_at_origin": true,
+      "actual": 6.033333333333333,
+      "predicted": 40.14515051858393,
+      "baseline": 0.0
+    },
+    {
+      "origin": "2026-09-18",
+      "workflow": "dynamic/copilot-swe-agent/copilot",
+      "known_at_origin": true,
+      "actual": 1.0166666666666666,
+      "predicted": 41.76323233474134,
+      "baseline": 0.0
+    },
+    {
+      "origin": "2026-09-18",
+      "workflow": "dynamic/dependabot/dependabot-updates",
+      "known_at_origin": true,
+      "actual": 8.233333333333333,
+      "predicted": 47.47938202259717,
+      "baseline": 8.164285714285715
+    },
+    {
+      "origin": "2026-09-19",
+      "workflow": ".github/workflows/ci.yml",
+      "known_at_origin": true,
+      "actual": 7797.466666666666,
+      "predicted": 9624.460717587375,
+      "baseline": 7673.302380952379
+    },
+    {
+      "origin": "2026-09-19",
+      "workflow": ".github/workflows/codeql-analysis.yml",
+      "known_at_origin": true,
+      "actual": 391.96666666666664,
+      "predicted": 504.2224898640942,
+      "baseline": 382.36666666666673
+    },
+    {
+      "origin": "2026-09-19",
+      "workflow": ".github/workflows/docs-ci.yml",
+      "known_at_origin": true,
+      "actual": 981.85,
+      "predicted": 1220.5111393197947,
+      "baseline": 1101.0904761904762
+    },
+    {
+      "origin": "2026-09-19",
+      "workflow": ".github/workflows/ecosystem-tests.yml",
+      "known_at_origin": true,
+      "actual": 5210.466666666666,
+      "predicted": 5958.564421487214,
+      "baseline": 4952.02619047619
+    },
+    {
+      "origin": "2026-09-19",
+      "workflow": ".github/workflows/ecosystem-updates.yml",
+      "known_at_origin": true,
+      "actual": 3.3,
+      "predicted": 44.02961079748008,
+      "baseline": 2.9404761904761907
+    },
+    {
+      "origin": "2026-09-19",
+      "workflow": ".github/workflows/pinact.yml",
+      "known_at_origin": true,
+      "actual": 0,
+      "predicted": 39.658251404701154,
+      "baseline": 0.0
+    },
+    {
+      "origin": "2026-09-19",
+      "workflow": ".github/workflows/pr-labeler.yml",
+      "known_at_origin": true,
+      "actual": 12.383333333333333,
+      "predicted": 56.84641115374464,
+      "baseline": 11.735714285714286
+    },
+    {
+      "origin": "2026-09-19",
+      "workflow": ".github/workflows/rebuild-docs-sites.yml",
+      "known_at_origin": true,
+      "actual": 0.2,
+      "predicted": 41.498823564818835,
+      "baseline": 0.2857142857142857
+    },
+    {
+      "origin": "2026-09-19",
+      "workflow": ".github/workflows/stale.yml",
+      "known_at_origin": true,
+      "actual": 3.45,
+      "predicted": 45.055652920614094,
+      "baseline": 3.4833333333333334
+    },
+    {
+      "origin": "2026-09-19",
+      "workflow": ".github/workflows/types-integration.yml",
+      "known_at_origin": true,
+      "actual": 2070.55,
+      "predicted": 2365.470064880887,
+      "baseline": 2016.1214285714286
+    },
+    {
+      "origin": "2026-09-19",
+      "workflow": ".github/workflows/update-readme.yml",
+      "known_at_origin": true,
+      "actual": 31.066666666666666,
+      "predicted": 70.77244944968461,
+      "baseline": 30.84285714285714
+    },
+    {
+      "origin": "2026-09-19",
+      "workflow": "dynamic/agents/copilot-pull-request-reviewer",
+      "known_at_origin": true,
+      "actual": 6.033333333333333,
+      "predicted": 40.14515051858393,
+      "baseline": 0.0
+    },
+    {
+      "origin": "2026-09-19",
+      "workflow": "dynamic/copilot-swe-agent/copilot",
+      "known_at_origin": true,
+      "actual": 1.0166666666666666,
+      "predicted": 41.76323233474134,
+      "baseline": 0.0
+    },
+    {
+      "origin": "2026-09-19",
+      "workflow": "dynamic/dependabot/dependabot-updates",
+      "known_at_origin": true,
+      "actual": 8.233333333333333,
+      "predicted": 50.236907591335836,
+      "baseline": 9.447619047619046
+    },
+    {
+      "origin": "2026-09-20",
+      "workflow": ".github/workflows/ci.yml",
+      "known_at_origin": true,
+      "actual": 7797.466666666666,
+      "predicted": 9231.562373592034,
+      "baseline": 7460.057142857142
+    },
+    {
+      "origin": "2026-09-20",
+      "workflow": ".github/workflows/codeql-analysis.yml",
+      "known_at_origin": true,
+      "actual": 391.96666666666664,
+      "predicted": 477.7979622593551,
+      "baseline": 369.71071428571435
+    },
+    {
+      "origin": "2026-09-20",
+      "workflow": ".github/workflows/docs-ci.yml",
+      "known_at_origin": true,
+      "actual": 981.85,
+      "predicted": 1177.4140239748097,
+      "baseline": 1072.502380952381
+    },
+    {
+      "origin": "2026-09-20",
+      "workflow": ".github/workflows/ecosystem-tests.yml",
+      "known_at_origin": true,
+      "actual": 5210.466666666666,
+      "predicted": 5756.105222492668,
+      "baseline": 4845.567857142857
+    },
+    {
+      "origin": "2026-09-20",
+      "workflow": ".github/workflows/ecosystem-updates.yml",
+      "known_at_origin": true,
+      "actual": 3.3,
+      "predicted": 40.20509402375898,
+      "baseline": 2.8273809523809526
+    },
+    {
+      "origin": "2026-09-20",
+      "workflow": ".github/workflows/pinact.yml",
+      "known_at_origin": true,
+      "actual": 0,
+      "predicted": 36.18053029090269,
+      "baseline": 0.0
+    },
+    {
+      "origin": "2026-09-20",
+      "workflow": ".github/workflows/pr-labeler.yml",
+      "known_at_origin": true,
+      "actual": 12.383333333333333,
+      "predicted": 51.961083075018855,
+      "baseline": 11.445238095238095
+    },
+    {
+      "origin": "2026-09-20",
+      "workflow": ".github/workflows/rebuild-docs-sites.yml",
+      "known_at_origin": true,
+      "actual": 0.2,
+      "predicted": 37.72597195434552,
+      "baseline": 0.2785714285714286
+    },
+    {
+      "origin": "2026-09-20",
+      "workflow": ".github/workflows/stale.yml",
+      "known_at_origin": true,
+      "actual": 3.45,
+      "predicted": 41.24371258950603,
+      "baseline": 3.470238095238096
+    },
+    {
+      "origin": "2026-09-20",
+      "workflow": ".github/workflows/types-integration.yml",
+      "known_at_origin": true,
+      "actual": 2070.55,
+      "predicted": 2275.0856073837667,
+      "baseline": 1964.6595238095238
+    },
+    {
+      "origin": "2026-09-20",
+      "workflow": ".github/workflows/update-readme.yml",
+      "known_at_origin": true,
+      "actual": 31.066666666666666,
+      "predicted": 66.92990808068436,
+      "baseline": 30.851190476190474
+    },
+    {
+      "origin": "2026-09-20",
+      "workflow": "dynamic/agents/copilot-pull-request-reviewer",
+      "known_at_origin": true,
+      "actual": 6.033333333333333,
+      "predicted": 36.59975667582286,
+      "baseline": 0.0
+    },
+    {
+      "origin": "2026-09-20",
+      "workflow": "dynamic/copilot-swe-agent/copilot",
+      "known_at_origin": true,
+      "actual": 1.0166666666666666,
+      "predicted": 37.992945882686094,
+      "baseline": 0.0
+    },
+    {
+      "origin": "2026-09-20",
+      "workflow": "dynamic/dependabot/dependabot-updates",
+      "known_at_origin": true,
+      "actual": 8.233333333333333,
+      "predicted": 44.90169093237404,
+      "baseline": 9.17142857142857
+    },
+    {
+      "origin": "2026-09-21",
+      "workflow": ".github/workflows/ci.yml",
+      "known_at_origin": true,
+      "actual": 7797.466666666666,
+      "predicted": 9064.48924749123,
+      "baseline": 7340.414285714285
+    },
+    {
+      "origin": "2026-09-21",
+      "workflow": ".github/workflows/codeql-analysis.yml",
+      "known_at_origin": true,
+      "actual": 391.96666666666664,
+      "predicted": 462.3377427800755,
+      "baseline": 362.8547619047619
+    },
+    {
+      "origin": "2026-09-21",
+      "workflow": ".github/workflows/docs-ci.yml",
+      "known_at_origin": true,
+      "actual": 981.85,
+      "predicted": 1163.8222832439048,
+      "baseline": 1047.6904761904761
+    },
+    {
+      "origin": "2026-09-21",
+      "workflow": ".github/workflows/ecosystem-tests.yml",
+      "known_at_origin": true,
+      "actual": 5210.466666666666,
+      "predicted": 5668.510499659354,
+      "baseline": 4782.440476190476
+    },
+    {
+      "origin": "2026-09-21",
+      "workflow": ".github/workflows/ecosystem-updates.yml",
+      "known_at_origin": true,
+      "actual": 3.3,
+      "predicted": 32.070066625973006,
+      "baseline": 2.7142857142857144
+    },
+    {
+      "origin": "2026-09-21",
+      "workflow": ".github/workflows/pinact.yml",
+      "known_at_origin": true,
+      "actual": 0,
+      "predicted": 28.371089257737864,
+      "baseline": 0.0
+    },
+    {
+      "origin": "2026-09-21",
+      "workflow": ".github/workflows/pr-labeler.yml",
+      "known_at_origin": true,
+      "actual": 12.383333333333333,
+      "predicted": 43.301685236480886,
+      "baseline": 11.280952380952382
+    },
+    {
+      "origin": "2026-09-21",
+      "workflow": ".github/workflows/rebuild-docs-sites.yml",
+      "known_at_origin": true,
+      "actual": 0.2,
+      "predicted": 29.714720232282264,
+      "baseline": 0.27142857142857146
+    },
+    {
+      "origin": "2026-09-21",
+      "workflow": ".github/workflows/stale.yml",
+      "known_at_origin": true,
+      "actual": 3.45,
+      "predicted": 33.076163283264236,
+      "baseline": 3.4023809523809523
+    },
+    {
+      "origin": "2026-09-21",
+      "workflow": ".github/workflows/types-integration.yml",
+      "known_at_origin": true,
+      "actual": 2070.55,
+      "predicted": 2242.8161058323694,
+      "baseline": 1938.8690476190477
+    },
+    {
+      "origin": "2026-09-21",
+      "workflow": ".github/workflows/update-readme.yml",
+      "known_at_origin": true,
+      "actual": 31.066666666666666,
+      "predicted": 58.858926949502404,
+      "baseline": 31.1
+    },
+    {
+      "origin": "2026-09-21",
+      "workflow": "dynamic/agents/copilot-pull-request-reviewer",
+      "known_at_origin": true,
+      "actual": 6.033333333333333,
+      "predicted": 33.61251182260502,
+      "baseline": 5.9714285714285715
+    },
+    {
+      "origin": "2026-09-21",
+      "workflow": "dynamic/copilot-swe-agent/copilot",
+      "known_at_origin": true,
+      "actual": 1.0166666666666666,
+      "predicted": 29.90883219381832,
+      "baseline": 0.0
+    },
+    {
+      "origin": "2026-09-21",
+      "workflow": "dynamic/dependabot/dependabot-updates",
+      "known_at_origin": true,
+      "actual": 8.233333333333333,
+      "predicted": 36.77848955101296,
+      "baseline": 8.895238095238094
+    },
+    {
+      "origin": "2026-09-22",
+      "workflow": ".github/workflows/ci.yml",
+      "known_at_origin": true,
+      "actual": 7797.466666666666,
+      "predicted": 9097.840461774433,
+      "baseline": 7237.922619047618
+    },
+    {
+      "origin": "2026-09-22",
+      "workflow": ".github/workflows/codeql-analysis.yml",
+      "known_at_origin": true,
+      "actual": 391.96666666666664,
+      "predicted": 460.586334143443,
+      "baseline": 362.5309523809524
+    },
+    {
+      "origin": "2026-09-22",
+      "workflow": ".github/workflows/docs-ci.yml",
+      "known_at_origin": true,
+      "actual": 981.85,
+      "predicted": 1196.9283420534734,
+      "baseline": 1041.502380952381
+    },
+    {
+      "origin": "2026-09-22",
+      "workflow": ".github/workflows/ecosystem-tests.yml",
+      "known_at_origin": true,
+      "actual": 5210.466666666666,
+      "predicted": 5697.024312720025,
+      "baseline": 4763.049999999999
+    },
+    {
+      "origin": "2026-09-22",
+      "workflow": ".github/workflows/ecosystem-updates.yml",
+      "known_at_origin": true,
+      "actual": 3.3,
+      "predicted": 26.813812859654206,
+      "baseline": 3.411904761904762
+    },
+    {
+      "origin": "2026-09-22",
+      "workflow": ".github/workflows/pinact.yml",
+      "known_at_origin": true,
+      "actual": 0,
+      "predicted": 22.47500752265919,
+      "baseline": 0.0
+    },
+    {
+      "origin": "2026-09-22",
+      "workflow": ".github/workflows/pr-labeler.yml",
+      "known_at_origin": true,
+      "actual": 12.383333333333333,
+      "predicted": 36.98327611672387,
+      "baseline": 11.24047619047619
+    },
+    {
+      "origin": "2026-09-22",
+      "workflow": ".github/workflows/rebuild-docs-sites.yml",
+      "known_at_origin": true,
+      "actual": 0.2,
+      "predicted": 23.647535674564626,
+      "baseline": 0.2642857142857143
+    },
+    {
+      "origin": "2026-09-22",
+      "workflow": ".github/workflows/stale.yml",
+      "known_at_origin": true,
+      "actual": 3.45,
+      "predicted": 26.89467386288716,
+      "baseline": 3.3845238095238095
+    },
+    {
+      "origin": "2026-09-22",
+      "workflow": ".github/workflows/types-integration.yml",
+      "known_at_origin": true,
+      "actual": 2070.55,
+      "predicted": 2260.870770714327,
+      "baseline": 1931.5357142857142
+    },
+    {
+      "origin": "2026-09-22",
+      "workflow": ".github/workflows/update-readme.yml",
+      "known_at_origin": true,
+      "actual": 31.066666666666666,
+      "predicted": 52.42557500475945,
+      "baseline": 31.04642857142857
+    },
+    {
+      "origin": "2026-09-22",
+      "workflow": "dynamic/agents/copilot-pull-request-reviewer",
+      "known_at_origin": true,
+      "actual": 6.033333333333333,
+      "predicted": 25.62783066733268,
+      "baseline": 5.722619047619048
+    },
+    {
+      "origin": "2026-09-22",
+      "workflow": "dynamic/copilot-swe-agent/copilot",
+      "known_at_origin": true,
+      "actual": 1.0166666666666666,
+      "predicted": 23.779872473192654,
+      "baseline": 0.0
+    },
+    {
+      "origin": "2026-09-22",
+      "workflow": "dynamic/dependabot/dependabot-updates",
+      "known_at_origin": true,
+      "actual": 8.233333333333333,
+      "predicted": 30.616389789329183,
+      "baseline": 8.619047619047619
+    },
+    {
+      "origin": "2026-09-23",
+      "workflow": ".github/workflows/ci.yml",
+      "known_at_origin": true,
+      "actual": 7797.466666666666,
+      "predicted": 8786.52191217645,
+      "baseline": 7105.707142857142
+    },
+    {
+      "origin": "2026-09-23",
+      "workflow": ".github/workflows/codeql-analysis.yml",
+      "known_at_origin": true,
+      "actual": 391.96666666666664,
+      "predicted": 444.1977060016212,
+      "baseline": 357.76428571428573
+    },
+    {
+      "origin": "2026-09-23",
+      "workflow": ".github/workflows/docs-ci.yml",
+      "known_at_origin": true,
+      "actual": 981.85,
+      "predicted": 1162.4431529561232,
+      "baseline": 1011.254761904762
+    },
+    {
+      "origin": "2026-09-23",
+      "workflow": ".github/workflows/ecosystem-tests.yml",
+      "known_at_origin": true,
+      "actual": 5210.466666666666,
+      "predicted": 5540.436921926031,
+      "baseline": 4702.590476190476
+    },
+    {
+      "origin": "2026-09-23",
+      "workflow": ".github/workflows/ecosystem-updates.yml",
+      "known_at_origin": true,
+      "actual": 3.3,
+      "predicted": 25.568109765668417,
+      "baseline": 3.2976190476190474
+    },
+    {
+      "origin": "2026-09-23",
+      "workflow": ".github/workflows/pinact.yml",
+      "known_at_origin": true,
+      "actual": 0,
+      "predicted": 21.737989283971928,
+      "baseline": 0.0
+    },
+    {
+      "origin": "2026-09-23",
+      "workflow": ".github/workflows/pr-labeler.yml",
+      "known_at_origin": true,
+      "actual": 12.383333333333333,
+      "predicted": 35.51588683191633,
+      "baseline": 10.797619047619047
+    },
+    {
+      "origin": "2026-09-23",
+      "workflow": ".github/workflows/rebuild-docs-sites.yml",
+      "known_at_origin": true,
+      "actual": 0.2,
+      "predicted": 22.799803106698636,
+      "baseline": 0.2571428571428572
+    },
+    {
+      "origin": "2026-09-23",
+      "workflow": ".github/workflows/stale.yml",
+      "known_at_origin": true,
+      "actual": 3.45,
+      "predicted": 26.024915183078882,
+      "baseline": 3.4404761904761907
+    },
+    {
+      "origin": "2026-09-23",
+      "workflow": ".github/workflows/types-integration.yml",
+      "known_at_origin": true,
+      "actual": 2070.55,
+      "predicted": 2192.597144220372,
+      "baseline": 1894.547619047619
+    },
+    {
+      "origin": "2026-09-23",
+      "workflow": ".github/workflows/update-readme.yml",
+      "known_at_origin": true,
+      "actual": 31.066666666666666,
+      "predicted": 51.39080949290103,
+      "baseline": 30.95238095238095
+    },
+    {
+      "origin": "2026-09-23",
+      "workflow": "dynamic/agents/copilot-pull-request-reviewer",
+      "known_at_origin": true,
+      "actual": 6.033333333333333,
+      "predicted": 24.97775131067752,
+      "baseline": 5.473809523809524
+    },
+    {
+      "origin": "2026-09-23",
+      "workflow": "dynamic/copilot-swe-agent/copilot",
+      "known_at_origin": true,
+      "actual": 1.0166666666666666,
+      "predicted": 22.892167474622248,
+      "baseline": 0.0
+    },
+    {
+      "origin": "2026-09-23",
+      "workflow": "dynamic/dependabot/dependabot-updates",
+      "known_at_origin": true,
+      "actual": 8.233333333333333,
+      "predicted": 29.707241091829005,
+      "baseline": 8.342857142857142
+    },
+    {
+      "origin": "2026-09-24",
+      "workflow": ".github/workflows/ci.yml",
+      "known_at_origin": true,
+      "actual": 7797.466666666666,
+      "predicted": 8765.747440471943,
+      "baseline": 7160.049999999999
+    },
+    {
+      "origin": "2026-09-24",
+      "workflow": ".github/workflows/codeql-analysis.yml",
+      "known_at_origin": true,
+      "actual": 391.96666666666664,
+      "predicted": 451.44516176189074,
+      "baseline": 364.4083333333333
+    },
+    {
+      "origin": "2026-09-24",
+      "workflow": ".github/workflows/docs-ci.yml",
+      "known_at_origin": true,
+      "actual": 981.85,
+      "predicted": 1139.5983594771237,
+      "baseline": 994.8416666666667
+    },
+    {
+      "origin": "2026-09-24",
+      "workflow": ".github/workflows/ecosystem-tests.yml",
+      "known_at_origin": true,
+      "actual": 5210.466666666666,
+      "predicted": 5562.187057207455,
+      "baseline": 4767.991666666667
+    },
+    {
+      "origin": "2026-09-24",
+      "workflow": ".github/workflows/ecosystem-updates.yml",
+      "known_at_origin": true,
+      "actual": 3.3,
+      "predicted": 25.568109765668417,
+      "baseline": 3.1833333333333336
+    },
+    {
+      "origin": "2026-09-24",
+      "workflow": ".github/workflows/pinact.yml",
+      "known_at_origin": true,
+      "actual": 0,
+      "predicted": 21.737989283971928,
+      "baseline": 0.0
+    },
+    {
+      "origin": "2026-09-24",
+      "workflow": ".github/workflows/pr-labeler.yml",
+      "known_at_origin": true,
+      "actual": 12.383333333333333,
+      "predicted": 35.67452777766676,
+      "baseline": 10.691666666666666
+    },
+    {
+      "origin": "2026-09-24",
+      "workflow": ".github/workflows/rebuild-docs-sites.yml",
+      "known_at_origin": true,
+      "actual": 0.2,
+      "predicted": 22.799803106698636,
+      "baseline": 0.25
+    },
+    {
+      "origin": "2026-09-24",
+      "workflow": ".github/workflows/stale.yml",
+      "known_at_origin": true,
+      "actual": 3.45,
+      "predicted": 26.122540380463775,
+      "baseline": 3.4749999999999996
+    },
+    {
+      "origin": "2026-09-24",
+      "workflow": ".github/workflows/types-integration.yml",
+      "known_at_origin": true,
+      "actual": 2070.55,
+      "predicted": 2207.698521175649,
+      "baseline": 1909.7999999999997
+    },
+    {
+      "origin": "2026-09-24",
+      "workflow": ".github/workflows/update-readme.yml",
+      "known_at_origin": true,
+      "actual": 31.066666666666666,
+      "predicted": 51.97656067721036,
+      "baseline": 30.916666666666664
+    },
+    {
+      "origin": "2026-09-24",
+      "workflow": "dynamic/agents/copilot-pull-request-reviewer",
+      "known_at_origin": true,
+      "actual": 6.033333333333333,
+      "predicted": 24.97775131067752,
+      "baseline": 5.225
+    },
+    {
+      "origin": "2026-09-24",
+      "workflow": "dynamic/copilot-swe-agent/copilot",
+      "known_at_origin": true,
+      "actual": 1.0166666666666666,
+      "predicted": 22.892167474622248,
+      "baseline": 0.0
+    },
+    {
+      "origin": "2026-09-24",
+      "workflow": "dynamic/dependabot/dependabot-updates",
+      "known_at_origin": true,
+      "actual": 8.233333333333333,
+      "predicted": 29.707241091829005,
+      "baseline": 8.066666666666666
+    },
+    {
+      "origin": "2026-09-25",
+      "workflow": ".github/workflows/ci.yml",
+      "known_at_origin": true,
+      "actual": 7797.466666666666,
+      "predicted": 8373.718577991502,
+      "baseline": 7062.040476190476
+    },
+    {
+      "origin": "2026-09-25",
+      "workflow": ".github/workflows/codeql-analysis.yml",
+      "known_at_origin": true,
+      "actual": 391.96666666666664,
+      "predicted": 434.27021250849515,
+      "baseline": 356.7214285714286
+    },
+    {
+      "origin": "2026-09-25",
+      "workflow": ".github/workflows/docs-ci.yml",
+      "known_at_origin": true,
+      "actual": 981.85,
+      "predicted": 1107.94141293123,
+      "baseline": 973.4142857142857
+    },
+    {
+      "origin": "2026-09-25",
+      "workflow": ".github/workflows/ecosystem-tests.yml",
+      "known_at_origin": true,
+      "actual": 5210.466666666666,
+      "predicted": 5380.461871297219,
+      "baseline": 4742.164285714285
+    },
+    {
+      "origin": "2026-09-25",
+      "workflow": ".github/workflows/ecosystem-updates.yml",
+      "known_at_origin": true,
+      "actual": 3.3,
+      "predicted": 25.568109765668417,
+      "baseline": 3.069047619047619
+    },
+    {
+      "origin": "2026-09-25",
+      "workflow": ".github/workflows/pinact.yml",
+      "known_at_origin": true,
+      "actual": 0,
+      "predicted": 21.737989283971928,
+      "baseline": 0.0
+    },
+    {
+      "origin": "2026-09-25",
+      "workflow": ".github/workflows/pr-labeler.yml",
+      "known_at_origin": true,
+      "actual": 12.383333333333333,
+      "predicted": 35.78435612472478,
+      "baseline": 10.588095238095239
+    },
+    {
+      "origin": "2026-09-25",
+      "workflow": ".github/workflows/rebuild-docs-sites.yml",
+      "known_at_origin": true,
+      "actual": 0.2,
+      "predicted": 22.799803106698636,
+      "baseline": 0.24285714285714288
+    },
+    {
+      "origin": "2026-09-25",
+      "workflow": ".github/workflows/stale.yml",
+      "known_at_origin": true,
+      "actual": 3.45,
+      "predicted": 26.195759278502443,
+      "baseline": 3.45
+    },
+    {
+      "origin": "2026-09-25",
+      "workflow": ".github/workflows/types-integration.yml",
+      "known_at_origin": true,
+      "actual": 2070.55,
+      "predicted": 2131.1494792526137,
+      "baseline": 1884.3904761904762
+    },
+    {
+      "origin": "2026-09-25",
+      "workflow": ".github/workflows/update-readme.yml",
+      "known_at_origin": true,
+      "actual": 31.066666666666666,
+      "predicted": 52.598921310539026,
+      "baseline": 30.945238095238096
+    },
+    {
+      "origin": "2026-09-25",
+      "workflow": "dynamic/agents/copilot-pull-request-reviewer",
+      "known_at_origin": true,
+      "actual": 6.033333333333333,
+      "predicted": 24.97775131067752,
+      "baseline": 4.976190476190476
+    },
+    {
+      "origin": "2026-09-25",
+      "workflow": "dynamic/copilot-swe-agent/copilot",
+      "known_at_origin": true,
+      "actual": 1.0166666666666666,
+      "predicted": 22.892167474622248,
+      "baseline": 0.0
+    },
+    {
+      "origin": "2026-09-25",
+      "workflow": "dynamic/dependabot/dependabot-updates",
+      "known_at_origin": true,
+      "actual": 8.233333333333333,
+      "predicted": 29.707241091829005,
+      "baseline": 7.7904761904761894
+    },
+    {
+      "origin": "2026-09-26",
+      "workflow": ".github/workflows/ci.yml",
+      "known_at_origin": true,
+      "actual": 7797.466666666666,
+      "predicted": 8356.897042039374,
+      "baseline": 7227.521428571427
+    },
+    {
+      "origin": "2026-09-26",
+      "workflow": ".github/workflows/codeql-analysis.yml",
+      "known_at_origin": true,
+      "actual": 391.96666666666664,
+      "predicted": 444.9260057794146,
+      "baseline": 369.58214285714286
+    },
+    {
+      "origin": "2026-09-26",
+      "workflow": ".github/workflows/docs-ci.yml",
+      "known_at_origin": true,
+      "actual": 981.85,
+      "predicted": 1075.2931856884793,
+      "baseline": 956.495238095238
+    },
+    {
+      "origin": "2026-09-26",
+      "workflow": ".github/workflows/ecosystem-tests.yml",
+      "known_at_origin": true,
+      "actual": 5210.466666666666,
+      "predicted": 5466.041937763917,
+      "baseline": 4912.35119047619
+    },
+    {
+      "origin": "2026-09-26",
+      "workflow": ".github/workflows/ecosystem-updates.yml",
+      "known_at_origin": true,
+      "actual": 3.3,
+      "predicted": 25.568109765668417,
+      "baseline": 2.954761904761905
+    },
+    {
+      "origin": "2026-09-26",
+      "workflow": ".github/workflows/pinact.yml",
+      "known_at_origin": true,
+      "actual": 0,
+      "predicted": 21.737989283971928,
+      "baseline": 0.0
+    },
+    {
+      "origin": "2026-09-26",
+      "workflow": ".github/workflows/pr-labeler.yml",
+      "known_at_origin": true,
+      "actual": 12.383333333333333,
+      "predicted": 36.473024175358965,
+      "baseline": 10.899999999999999
+    },
+    {
+      "origin": "2026-09-26",
+      "workflow": ".github/workflows/rebuild-docs-sites.yml",
+      "known_at_origin": true,
+      "actual": 0.2,
+      "predicted": 22.799803106698636,
+      "baseline": 0.23571428571428574
+    },
+    {
+      "origin": "2026-09-26",
+      "workflow": ".github/workflows/stale.yml",
+      "known_at_origin": true,
+      "actual": 3.45,
+      "predicted": 26.388586332680035,
+      "baseline": 3.4440476190476192
+    },
+    {
+      "origin": "2026-09-26",
+      "workflow": ".github/workflows/types-integration.yml",
+      "known_at_origin": true,
+      "actual": 2070.55,
+      "predicted": 2149.5986669810095,
+      "baseline": 1930.1690476190477
+    },
+    {
+      "origin": "2026-09-26",
+      "workflow": ".github/workflows/update-readme.yml",
+      "known_at_origin": true,
+      "actual": 31.066666666666666,
+      "predicted": 54.003804133832745,
+      "baseline": 30.963095238095235
+    },
+    {
+      "origin": "2026-09-26",
+      "workflow": "dynamic/agents/copilot-pull-request-reviewer",
+      "known_at_origin": true,
+      "actual": 6.033333333333333,
+      "predicted": 24.97775131067752,
+      "baseline": 4.727380952380953
+    },
+    {
+      "origin": "2026-09-26",
+      "workflow": "dynamic/copilot-swe-agent/copilot",
+      "known_at_origin": true,
+      "actual": 1.0166666666666666,
+      "predicted": 22.892167474622248,
+      "baseline": 0.0
+    },
+    {
+      "origin": "2026-09-26",
+      "workflow": "dynamic/dependabot/dependabot-updates",
+      "known_at_origin": true,
+      "actual": 8.233333333333333,
+      "predicted": 33.178128067025305,
+      "baseline": 9.661904761904761
+    },
+    {
+      "origin": "2026-09-27",
+      "workflow": ".github/workflows/ci.yml",
+      "known_at_origin": true,
+      "actual": 7797.466666666666,
+      "predicted": 8063.073677653481,
+      "baseline": 7275.823809523808
+    },
+    {
+      "origin": "2026-09-27",
+      "workflow": ".github/workflows/codeql-analysis.yml",
+      "known_at_origin": true,
+      "actual": 391.96666666666664,
+      "predicted": 420.54405591627824,
+      "baseline": 369.58333333333337
+    },
+    {
+      "origin": "2026-09-27",
+      "workflow": ".github/workflows/docs-ci.yml",
+      "known_at_origin": true,
+      "actual": 981.85,
+      "predicted": 1115.658302032098,
+      "baseline": 1002.4904761904762
+    },
+    {
+      "origin": "2026-09-27",
+      "workflow": ".github/workflows/ecosystem-tests.yml",
+      "known_at_origin": true,
+      "actual": 5210.466666666666,
+      "predicted": 5281.16839045919,
+      "baseline": 4938.621428571428
+    },
+    {
+      "origin": "2026-09-27",
+      "workflow": ".github/workflows/ecosystem-updates.yml",
+      "known_at_origin": true,
+      "actual": 3.3,
+      "predicted": 21.177131771591853,
+      "baseline": 2.8404761904761906
+    },
+    {
+      "origin": "2026-09-27",
+      "workflow": ".github/workflows/pinact.yml",
+      "known_at_origin": true,
+      "actual": 0,
+      "predicted": 17.744599429562342,
+      "baseline": 0.0
+    },
+    {
+      "origin": "2026-09-27",
+      "workflow": ".github/workflows/pr-labeler.yml",
+      "known_at_origin": true,
+      "actual": 12.383333333333333,
+      "predicted": 31.51838618858531,
+      "baseline": 11.223809523809523
+    },
+    {
+      "origin": "2026-09-27",
+      "workflow": ".github/workflows/rebuild-docs-sites.yml",
+      "known_at_origin": true,
+      "actual": 0.2,
+      "predicted": 18.555565379921102,
+      "baseline": 0.2285714285714286
+    },
+    {
+      "origin": "2026-09-27",
+      "workflow": ".github/workflows/stale.yml",
+      "known_at_origin": true,
+      "actual": 3.45,
+      "predicted": 22.00984765746761,
+      "baseline": 3.4404761904761907
+    },
+    {
+      "origin": "2026-09-27",
+      "workflow": ".github/workflows/types-integration.yml",
+      "known_at_origin": true,
+      "actual": 2070.55,
+      "predicted": 2094.1191221675917,
+      "baseline": 1946.8166666666666
+    },
+    {
+      "origin": "2026-09-27",
+      "workflow": ".github/workflows/update-readme.yml",
+      "known_at_origin": true,
+      "actual": 31.066666666666666,
+      "predicted": 49.263423175190766,
+      "baseline": 30.861904761904764
+    },
+    {
+      "origin": "2026-09-27",
+      "workflow": "dynamic/agents/copilot-pull-request-reviewer",
+      "known_at_origin": true,
+      "actual": 6.033333333333333,
+      "predicted": 21.178186007216702,
+      "baseline": 4.478571428571429
+    },
+    {
+      "origin": "2026-09-27",
+      "workflow": "dynamic/copilot-swe-agent/copilot",
+      "known_at_origin": true,
+      "actual": 1.0166666666666666,
+      "predicted": 18.562831345247943,
+      "baseline": 0.0
+    },
+    {
+      "origin": "2026-09-27",
+      "workflow": "dynamic/dependabot/dependabot-updates",
+      "known_at_origin": true,
+      "actual": 8.233333333333333,
+      "predicted": 26.88076639750384,
+      "baseline": 9.376190476190475
+    },
+    {
+      "origin": "2026-09-28",
+      "workflow": ".github/workflows/ci.yml",
+      "known_at_origin": true,
+      "actual": 7797.466666666666,
+      "predicted": 7956.278524547151,
+      "baseline": 7358.447619047618
+    },
+    {
+      "origin": "2026-09-28",
+      "workflow": ".github/workflows/codeql-analysis.yml",
+      "known_at_origin": true,
+      "actual": 391.96666666666664,
+      "predicted": 411.35758065433373,
+      "baseline": 376.70833333333337
+    },
+    {
+      "origin": "2026-09-28",
+      "workflow": ".github/workflows/docs-ci.yml",
+      "known_at_origin": true,
+      "actual": 981.85,
+      "predicted": 1025.9824808543672,
+      "baseline": 977.0904761904762
+    },
+    {
+      "origin": "2026-09-28",
+      "workflow": ".github/workflows/ecosystem-tests.yml",
+      "known_at_origin": true,
+      "actual": 5210.466666666666,
+      "predicted": 5239.273062566408,
+      "baseline": 4986.5
+    },
+    {
+      "origin": "2026-09-28",
+      "workflow": ".github/workflows/ecosystem-updates.yml",
+      "known_at_origin": true,
+      "actual": 3.3,
+      "predicted": 11.392924514042754,
+      "baseline": 2.7261904761904763
+    },
+    {
+      "origin": "2026-09-28",
+      "workflow": ".github/workflows/pinact.yml",
+      "known_at_origin": true,
+      "actual": 0,
+      "predicted": 8.351388900369571,
+      "baseline": 0.0
+    },
+    {
+      "origin": "2026-09-28",
+      "workflow": ".github/workflows/pr-labeler.yml",
+      "known_at_origin": true,
+      "actual": 12.383333333333333,
+      "predicted": 20.991735311943586,
+      "baseline": 11.283333333333333
+    },
+    {
+      "origin": "2026-09-28",
+      "workflow": ".github/workflows/rebuild-docs-sites.yml",
+      "known_at_origin": true,
+      "actual": 0.2,
+      "predicted": 8.915665657501467,
+      "baseline": 0.22142857142857145
+    },
+    {
+      "origin": "2026-09-28",
+      "workflow": ".github/workflows/stale.yml",
+      "known_at_origin": true,
+      "actual": 3.45,
+      "predicted": 12.182919303975876,
+      "baseline": 3.413095238095238
+    },
+    {
+      "origin": "2026-09-28",
+      "workflow": ".github/workflows/types-integration.yml",
+      "known_at_origin": true,
+      "actual": 2070.55,
+      "predicted": 2076.7035107163965,
+      "baseline": 1970.8500000000001
+    },
+    {
+      "origin": "2026-09-28",
+      "workflow": ".github/workflows/update-readme.yml",
+      "known_at_origin": true,
+      "actual": 31.066666666666666,
+      "predicted": 39.53031234009475,
+      "baseline": 31.010714285714286
+    },
+    {
+      "origin": "2026-09-28",
+      "workflow": "dynamic/agents/copilot-pull-request-reviewer",
+      "known_at_origin": true,
+      "actual": 6.033333333333333,
+      "predicted": 11.756477162064897,
+      "baseline": 4.229761904761904
+    },
+    {
+      "origin": "2026-09-28",
+      "workflow": "dynamic/copilot-swe-agent/copilot",
+      "known_at_origin": true,
+      "actual": 1.0166666666666666,
+      "predicted": 8.839244023315075,
+      "baseline": 0.0
+    },
+    {
+      "origin": "2026-09-28",
+      "workflow": "dynamic/dependabot/dependabot-updates",
+      "known_at_origin": true,
+      "actual": 8.233333333333333,
+      "predicted": 17.12301951271094,
+      "baseline": 9.09047619047619
+    },
+    {
+      "origin": "2026-09-29",
+      "workflow": ".github/workflows/ci.yml",
+      "known_at_origin": true,
+      "actual": 7797.466666666666,
+      "predicted": 7855.722543071547,
+      "baseline": 7492.759523809523
+    },
+    {
+      "origin": "2026-09-29",
+      "workflow": ".github/workflows/codeql-analysis.yml",
+      "known_at_origin": true,
+      "actual": 391.96666666666664,
+      "predicted": 390.2753724843062,
+      "baseline": 378.0571428571429
+    },
+    {
+      "origin": "2026-09-29",
+      "workflow": ".github/workflows/docs-ci.yml",
+      "known_at_origin": true,
+      "actual": 981.85,
+      "predicted": 1021.6117456261919,
+      "baseline": 983.1690476190477
+    },
+    {
+      "origin": "2026-09-29",
+      "workflow": ".github/workflows/ecosystem-tests.yml",
+      "known_at_origin": true,
+      "actual": 5210.466666666666,
+      "predicted": 5185.847484509818,
+      "baseline": 5038.992857142856
+    },
+    {
+      "origin": "2026-09-29",
+      "workflow": ".github/workflows/ecosystem-updates.yml",
+      "known_at_origin": true,
+      "actual": 3.3,
+      "predicted": 4.976209052861935,
+      "baseline": 3.545238095238095
+    },
+    {
+      "origin": "2026-09-29",
+      "workflow": ".github/workflows/pinact.yml",
+      "known_at_origin": true,
+      "actual": 0,
+      "predicted": 0.9578204901829395,
+      "baseline": 0.0
+    },
+    {
+      "origin": "2026-09-29",
+      "workflow": ".github/workflows/pr-labeler.yml",
+      "known_at_origin": true,
+      "actual": 12.383333333333333,
+      "predicted": 12.827169445894137,
+      "baseline": 11.45952380952381
+    },
+    {
+      "origin": "2026-09-29",
+      "workflow": ".github/workflows/rebuild-docs-sites.yml",
+      "known_at_origin": true,
+      "actual": 0.2,
+      "predicted": 1.3040454715428467,
+      "baseline": 0.2142857142857143
+    },
+    {
+      "origin": "2026-09-29",
+      "workflow": ".github/workflows/stale.yml",
+      "known_at_origin": true,
+      "actual": 3.45,
+      "predicted": 4.582325197561417,
+      "baseline": 3.4904761904761905
+    },
+    {
+      "origin": "2026-09-29",
+      "workflow": ".github/workflows/types-integration.yml",
+      "known_at_origin": true,
+      "actual": 2070.55,
+      "predicted": 2038.4397190072962,
+      "baseline": 1985.4190476190477
+    },
+    {
+      "origin": "2026-09-29",
+      "workflow": ".github/workflows/update-readme.yml",
+      "known_at_origin": true,
+      "actual": 31.066666666666666,
+      "predicted": 31.562038246756543,
+      "baseline": 31.064285714285713
+    },
+    {
+      "origin": "2026-09-29",
+      "workflow": "dynamic/agents/copilot-pull-request-reviewer",
+      "known_at_origin": true,
+      "actual": 6.033333333333333,
+      "predicted": 4.409745330062406,
+      "baseline": 3.980952380952381
+    },
+    {
+      "origin": "2026-09-29",
+      "workflow": "dynamic/copilot-swe-agent/copilot",
+      "known_at_origin": true,
+      "actual": 1.0166666666666666,
+      "predicted": 1.1536512832884398,
+      "baseline": 0.0
+    },
+    {
+      "origin": "2026-09-29",
+      "workflow": "dynamic/dependabot/dependabot-updates",
+      "known_at_origin": true,
+      "actual": 8.233333333333333,
+      "predicted": 9.40723269225546,
+      "baseline": 8.804761904761904
+    },
+    {
+      "origin": "2026-09-30",
+      "workflow": ".github/workflows/ci.yml",
+      "known_at_origin": true,
+      "actual": 7797.466666666666,
+      "predicted": 8014.212307688268,
+      "baseline": 7795.291666666665
+    },
+    {
+      "origin": "2026-09-30",
+      "workflow": ".github/workflows/codeql-analysis.yml",
+      "known_at_origin": true,
+      "actual": 391.96666666666664,
+      "predicted": 400.7263835264553,
+      "baseline": 393.2797619047619
+    },
+    {
+      "origin": "2026-09-30",
+      "workflow": ".github/workflows/docs-ci.yml",
+      "known_at_origin": true,
+      "actual": 981.85,
+      "predicted": 1019.3078585716152,
+      "baseline": 1000.9892857142858
+    },
+    {
+      "origin": "2026-09-30",
+      "workflow": ".github/workflows/ecosystem-tests.yml",
+      "known_at_origin": true,
+      "actual": 5210.466666666666,
+      "predicted": 5293.565896028497,
+      "baseline": 5194.6392857142855
+    },
+    {
+      "origin": "2026-09-30",
+      "workflow": ".github/workflows/ecosystem-updates.yml",
+      "known_at_origin": true,
+      "actual": 3.3,
+      "predicted": 3.3,
+      "baseline": 3.4226190476190474
+    },
+    {
+      "origin": "2026-09-30",
+      "workflow": ".github/workflows/pinact.yml",
+      "known_at_origin": true,
+      "actual": 0,
+      "predicted": 0.0,
+      "baseline": 0.0
+    },
+    {
+      "origin": "2026-09-30",
+      "workflow": ".github/workflows/pr-labeler.yml",
+      "known_at_origin": true,
+      "actual": 12.383333333333333,
+      "predicted": 11.766666666666667,
+      "baseline": 12.098809523809525
+    },
+    {
+      "origin": "2026-09-30",
+      "workflow": ".github/workflows/rebuild-docs-sites.yml",
+      "known_at_origin": true,
+      "actual": 0.2,
+      "predicted": 0.2,
+      "baseline": 0.20714285714285716
+    },
+    {
+      "origin": "2026-09-30",
+      "workflow": ".github/workflows/stale.yml",
+      "known_at_origin": true,
+      "actual": 3.45,
+      "predicted": 3.35,
+      "baseline": 3.4714285714285715
+    },
+    {
+      "origin": "2026-09-30",
+      "workflow": ".github/workflows/types-integration.yml",
+      "known_at_origin": true,
+      "actual": 2070.55,
+      "predicted": 2112.2752788645107,
+      "baseline": 2067.3595238095236
+    },
+    {
+      "origin": "2026-09-30",
+      "workflow": ".github/workflows/update-readme.yml",
+      "known_at_origin": true,
+      "actual": 31.066666666666666,
+      "predicted": 30.266666666666666,
+      "baseline": 31.113095238095237
+    },
+    {
+      "origin": "2026-09-30",
+      "workflow": "dynamic/agents/copilot-pull-request-reviewer",
+      "known_at_origin": true,
+      "actual": 6.033333333333333,
+      "predicted": 6.033333333333333,
+      "baseline": 6.464285714285714
+    },
+    {
+      "origin": "2026-09-30",
+      "workflow": "dynamic/copilot-swe-agent/copilot",
+      "known_at_origin": true,
+      "actual": 1.0166666666666666,
+      "predicted": 0.0,
+      "baseline": 0.0
+    },
+    {
+      "origin": "2026-09-30",
+      "workflow": "dynamic/dependabot/dependabot-updates",
+      "known_at_origin": true,
+      "actual": 8.233333333333333,
+      "predicted": 8.233333333333333,
+      "baseline": 8.519047619047619
+    }
+  ]
+}

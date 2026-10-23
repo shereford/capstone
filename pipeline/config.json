@@ -1,0 +1,12 @@
+{
+  "repository": "eslint/eslint",
+  "collection_start": "2026-06-24",
+  "start": "2026-07-01",
+  "end": "2026-10-18",
+  "train_end": "2026-08-31",
+  "test_start": "2026-09-01",
+  "test_end": "2026-09-30",
+  "alpha": 10.0,
+  "baseline_days": 14,
+  "minimum_feature_days": 7
+}
